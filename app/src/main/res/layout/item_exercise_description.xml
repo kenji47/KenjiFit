@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="288.0dip"
+        android:background="@color/white">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/stepImageViewPager"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"/>
+
+        <RadioGroup
+            android:id="@+id/navigationGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/item.navigation.size"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/indent_large"
+            android:orientation="horizontal"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/stepDescriptionTextView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffeceff1"
+        android:padding="@dimen/indent_large"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/exerciseDescriptionTextView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/indent_large"
+        android:layout_marginTop="@dimen/indent_large"
+        android:paddingLeft="@dimen/indent_large"
+        android:paddingRight="@dimen/indent_large"
+        android:textColor="@color/white"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_marginTop="@dimen/indent_large"/>
+</LinearLayout>

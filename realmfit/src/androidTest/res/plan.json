@@ -1,0 +1,363 @@
+[
+  {
+    "_id": "mass",
+    "name": {
+      "en": "Mass gain",
+      "ru": "Набор массы"
+    },
+    "iconName": "goal_mass",
+    "plans": [
+      {
+        "_id": "mass1",
+        "name": {
+          "en": "Mass gain 1",
+          "ru": "Набор массы 1"
+        },
+        "description": {
+          "en": "Desc mass 1",
+          "ru": "Описание масса 1"
+        },
+        "frequency": 2,
+        "gender": "male",
+        "days": [
+          {
+            "pos": 1,
+            "name": {
+              "en": "Leg day",
+              "ru": "День ног"
+            },
+            "desc": {
+              "en": "Desc Leg day",
+              "ru": "Описание День ног"
+            },
+            "workout": [
+              {
+                "exercise_id": "squats",
+                "sets": 3,
+                "reps": "8-12",
+                "res_sec": 120,
+                "pos": 1
+              },
+              {
+                "exercise_id": "legpress",
+                "sets": 4,
+                "reps": "6",
+                "res_sec": 120,
+                "pos": 2
+              },
+              {
+                "exercise_id": "plie",
+                "sets": 2,
+                "reps": "7-12",
+                "res_sec": 120,
+                "pos": 3
+              }
+            ]
+          },
+          {
+            "pos": 2,
+            "name": {
+              "en": "Arm day",
+              "ru": "День рук"
+            },
+            "desc": {
+              "en": "Desc arms",
+              "ru": "Описание День рук"
+            },
+            "workout": [
+              {
+                "exercise_id": "squats",
+                "sets": 3,
+                "reps": "8-12",
+                "res_sec": 120,
+                "pos": 1
+              },
+              {
+                "exercise_id": "legpress",
+                "sets": 4,
+                "reps": "6",
+                "res_sec": 120,
+                "pos": 2
+              },
+              {
+                "exercise_id": "plie",
+                "sets": 2,
+                "reps": "7-12",
+                "res_sec": 120,
+                "pos": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "power",
+    "name": {
+      "en": "Power",
+      "ru": "Набор силы"
+    },
+    "iconName": "goal_strength",
+    "plans": [
+      {
+        "_id": "str1",
+        "name": {
+          "en": "Str gain 1",
+          "ru": "Набор силы 1"
+        },
+        "description": {
+          "en": "Desc str 1",
+          "ru": "Описание силовой 1"
+        },
+        "frequency": 2,
+        "gender": "male",
+        "days": [
+          {
+            "pos": 1,
+            "name": {
+              "en": "Leg day",
+              "ru": "День ног"
+            },
+            "desc": {
+              "en": "Desc Leg day",
+              "ru": "Описание День ног"
+            },
+            "workout": [
+              {
+                "exercise_id": "squats",
+                "sets": 3,
+                "reps": "8-12",
+                "res_sec": 120,
+                "pos": 1
+              },
+              {
+                "exercise_id": "legpress",
+                "sets": 4,
+                "reps": "6",
+                "res_sec": 120,
+                "pos": 2
+              },
+              {
+                "exercise_id": "plie",
+                "sets": 2,
+                "reps": "7-12",
+                "res_sec": 120,
+                "pos": 3
+              }
+            ]
+          },
+          {
+            "pos": 2,
+            "name": {
+              "en": "Arm day",
+              "ru": "День рук"
+            },
+            "desc": {
+              "en": "Desc arms",
+              "ru": "Описание День рук"
+            },
+            "workout": [
+              {
+                "pos": 1,
+                "exercise_id": "squats",
+                "sets": 3,
+                "reps": "8-12",
+                "res_sec": 120
+              },
+              {
+                "pos": 2,
+                "exercise_id": "legpress",
+                "sets": 4,
+                "reps": "6",
+                "res_sec": 120
+              },
+              {
+                "pos": 3,
+                "exercise_id": "plie",
+                "sets": 2,
+                "reps": "7-12",
+                "res_sec": 120
+              }
+            ]}
+        ]
+      },
+      {
+        "_id": "str2",
+        "name": {
+          "en": "Str gain 2",
+          "ru": "Набор силы 2"
+        },
+        "description": {
+          "en": "Desc str 2",
+          "ru": "Описание силовой 2"
+        },
+        "frequency": 2,
+        "gender": "male",
+        "days": [
+          {
+            "pos": 1,
+            "name": {
+              "en": "Leg day",
+              "ru": "День ног"
+            },
+            "desc": {
+              "en": "Desc Leg day",
+              "ru": "Описание День ног"
+            },
+            "workout": [
+              {
+                "exercise_id": "squats",
+                "sets": 3,
+                "reps": "8-12",
+                "res_sec": 120,
+                "pos": 1
+              },
+              {
+                "exercise_id": "legpress",
+                "sets": 4,
+                "reps": "6",
+                "res_sec": 120,
+                "pos": 2
+              },
+              {
+                "exercise_id": "plie",
+                "sets": 2,
+                "reps": "7-12",
+                "res_sec": 120,
+                "pos": 3
+              }
+            ]
+          },
+          {
+            "pos": 2,
+            "name": {
+              "en": "Arm day",
+              "ru": "День рук"
+            },
+            "desc": {
+              "en": "Desc arms",
+              "ru": "Описание День рук"
+            },
+            "workout": [
+              {
+                "exercise_id": "squats",
+                "sets": 3,
+                "reps": "8-12",
+                "res_sec": 120,
+                "pos": 1
+              },
+              {
+                "exercise_id": "legpress",
+                "sets": 4,
+                "reps": "6",
+                "res_sec": 120,
+                "pos": 2
+              },
+              {
+                "exercise_id": "plie",
+                "sets": 2,
+                "reps": "7-12",
+                "res_sec": 120,
+                "pos": 3
+              }
+            ]}
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "fatloss",
+    "name": {
+      "en": "Fat loss",
+      "ru": "Похудение"
+    },
+    "iconName": "goal_fatloss",
+    "plans": [
+      {
+        "_id": "fatloss",
+        "name": {
+          "en": "Fat loss 1",
+          "ru": "Позудение 1"
+        },
+        "description": {
+          "en": "Desc fatloss 1",
+          "ru": "Описание похудение 1"
+        },
+        "frequency": 2,
+        "gender": "male",
+        "days": [
+          {
+            "pos": 1,
+            "name": {
+              "en": "Leg day",
+              "ru": "День ног"
+            },
+            "desc": {
+              "en": "Desc Leg day",
+              "ru": "Описание День ног"
+            },
+            "workout": [
+              {
+                "exercise_id": "squats",
+                "sets": 3,
+                "reps": "8-12",
+                "res_sec": 120,
+                "pos": 1
+              },
+              {
+                "exercise_id": "legpress",
+                "sets": 4,
+                "reps": "6",
+                "res_sec": 120,
+                "pos": 2
+              },
+              {
+                "exercise_id": "plie",
+                "sets": 2,
+                "reps": "7-12",
+                "res_sec": 120,
+                "pos": 3
+              }
+            ]
+          },
+          {
+            "pos": 2,
+            "name": {
+              "en": "Arm day",
+              "ru": "День рук"
+            },
+            "desc": {
+              "en": "Desc arms",
+              "ru": "Описание День рук"
+            },
+            "workout": [
+              {
+                "exercise_id": "squats",
+                "sets": 3,
+                "reps": "8-12",
+                "res_sec": 120,
+                "pos": 1
+              },
+              {
+                "exercise_id": "legpress",
+                "sets": 4,
+                "reps": "6",
+                "res_sec": 120,
+                "pos": 2
+              },
+              {
+                "exercise_id": "plie",
+                "sets": 2,
+                "reps": "7-12",
+                "res_sec": 120,
+                "pos": 3
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+]

@@ -1,0 +1,74 @@
+﻿[
+{
+ "iconUrl":"priority_power_benchpress.png",
+ "name": {
+      "en": "Жим лежа EN",
+      "ru": "Жим лежа"
+    },
+ "serverId":"priority_power_benchpress",
+ "description": {
+      "en": "Вы уверены что хотите выбрать этот приоритет? EN",
+      "ru": "Вы уверены что хотите выбрать этот приоритет?"
+    }
+},
+{
+ "iconUrl":"priority_power_powerlifting.png",
+ "name": {
+      "en": "Троеборье EN",
+      "ru": "Троеборье"
+    },
+ "serverId":"priority_power_powerlifting",
+ "description": {
+      "en": "Вы уверены что хотите выбрать этот приоритет? EN",
+      "ru": "Вы уверены что хотите выбрать этот приоритет?"
+    }
+},
+{
+ "iconUrl":"priority_power_hands.png",
+ "name": {
+      "en": "Сила рук EN",
+      "ru": "Сила рук"
+    },
+ "serverId":"priority_power_hands",
+ "description": {
+      "en": "Вы уверены что хотите выбрать этот приоритет? EN",
+      "ru": "Вы уверены что хотите выбрать этот приоритет?"
+    }
+},
+{
+ "iconUrl":"priority_gain_torso.png",
+ "name": {
+      "en": "Торс EN",
+      "ru": "Торс"
+    },
+ "serverId":"priority_gain_torso",
+ "description": {
+      "en": "Вы уверены что хотите выбрать этот приоритет? EN",
+      "ru": "Вы уверены что хотите выбрать этот приоритет?"
+    }
+},
+{
+ "iconUrl":"priority_gain_hands.png",
+ "name": {
+      "en": "Руки EN",
+      "ru": "Руки"
+    },
+ "serverId":"priority_gain_hands",
+ "description": {
+      "en": "Вы уверены что хотите выбрать этот приоритет? EN",
+      "ru": "Вы уверены что хотите выбрать этот приоритет?"
+    }
+},
+{
+ "iconUrl":"priority_gain_legs.png",
+ "name": {
+      "en": "Ноги EN",
+      "ru": "Ноги"
+    },
+ "serverId":"priority_gain_legs",
+ "description": {
+      "en": "Вы уверены что хотите выбрать этот приоритет? EN",
+      "ru": "Вы уверены что хотите выбрать этот приоритет?"
+    }
+}
+]

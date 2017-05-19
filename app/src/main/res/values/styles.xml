@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="MenuButton" parent="@android:style/Widget.Button">
+        <item name="android:textSize">@dimen/menu.item.text.size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:background">@drawable/button_menu_selector</item>
+        <item name="android:paddingLeft">@dimen/menu.item.left_padding</item>
+        <item name="android:paddingRight">@dimen/menu.item.left_padding</item>
+        <item name="android:drawablePadding">@dimen/menu.item.drawable_padding</item>
+    </style>
+
+    <style name="ToolbarColorIcon" parent="@style/AppTheme">
+        <item name="android:textColorSecondary">@color/text_primary</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textColorHint">@color/text_primary</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowToggleStyle</item>
+    </style>
+    <style name="DrawerArrowToggleStyle" parent="@style/Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@color/white</item>
+    </style>
+    <style name="SubTitleTextView" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/header.text.size</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@color/primary</item>
+        <item name="android:paddingLeft">@dimen/header.text.margin_left</item>
+        <item name="android:paddingRight">@dimen/indent_large</item>
+    </style>
+</resources>

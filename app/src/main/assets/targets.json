@@ -1,0 +1,100 @@
+﻿[
+  {
+    "iconUrl": "target_newbie.png",
+    "name": {
+      "en": "Newbie, 10 weeks",
+      "ru": "Новичок, 10 нед."
+    },
+    "serverId": "none",
+    "description": {
+      "en": "-",
+      "ru": "-"
+    },
+    "sexStr": "MALE",
+    "prioritiesStr": "none"
+  },
+  {
+    "iconUrl": "target_men_gain.png",
+    "name": {
+      "en": "Muscle gain, 6 weeks",
+      "ru": "Набор массы, 6 нед."
+    },
+    "serverId": "target_men_gain",
+    "description": {
+      "en": "-",
+      "ru": "-"
+    },
+    "sexStr": "MALE",
+    "prioritiesStr": "none"
+  },
+  {
+    "iconUrl": "target_men_weightloss.png",
+    "name": {
+      "en": "Weightloss, 6 weeks",
+      "ru": "Похудение, 6 нед."
+    },
+    "serverId": "target_men_weightloss",
+    "description": {
+      "en": "-",
+      "ru": "-"
+    },
+    "sexStr": "MALE",
+    "prioritiesStr": "none"
+  },
+  {
+    "iconUrl": "target_men_power.png",
+    "name": {
+      "en": "Power, 6 weeks",
+      "ru": "Тренировка силы, 6 нед."
+    },
+    "serverId": "target_men_power",
+    "description": {
+      "en": "-",
+      "ru": "-"
+    },
+    "sexStr": "MALE",
+    "prioritiesStr": "none"
+  },
+  {
+    "iconUrl": "target_newbie.png",
+    "name": {
+      "en": "Newbie, 6 weeks",
+      "ru": "Новичок, 6 нед."
+    },
+    "serverId": "wnewbie",
+    "description": {
+      "en": "-",
+      "ru": "-"
+    },
+    "sexStr": "FEMALE",
+    "prioritiesStr": "none"
+  },
+  {
+    "iconUrl": "target_women_gain.png",
+    "name": {
+      "en": "Muscle gain, 6 weeks",
+      "ru": "Набор мышц, 6 нед."
+    },
+    "serverId": "target_women_gain",
+    "description": {
+      "en": "-",
+      "ru": "-"
+    },
+    "sexStr": "FEMALE",
+    "prioritiesStr": "none"
+  },
+  {
+    "iconUrl": "target_women_weightloss.png",
+    "name": {
+      "en": "Weightloss, 6 weeks",
+      "ru": "Похудение, 6 нед."
+    },
+    "serverId": "target_women_weightloss",
+    "description": {
+      "en": "-",
+      "ru": "-"
+    },
+    "sexStr": "FEMALE",
+    "prioritiesStr": "none"
+  }
+]

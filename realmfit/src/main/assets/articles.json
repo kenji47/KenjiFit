@@ -1,0 +1,258 @@
+﻿[
+  {
+    "serverId": "faq",
+    "name": {
+      "en": "FAQ",
+      "ru": "Небольшой FAQ по приложению"
+    },
+    "description": {
+      "en": "After analyzing the main users' questions, we decided to create a FAQ",
+      "ru": "Проанализировав основные вопросы пользователей, мы решили создать FAQ"
+    },
+    "paragraphs": [
+      {
+        "iconUrl": {
+          "en": "",
+          "ru": ""
+        },
+        "text": {
+          "en": "Q: Why it is impossible to choose exercises freely for the program?\nA: Limitations on the choice of exercises aren’t made randomly, the load during the whole training cycle in all current programs is calculated so that all the muscle groups are loaded evenly. Moreover, precisely such distribution of the load contributes to more rapid progress within the targeted goal (gaining muscles, losing weight) with a corresponding diet. In the nearest future we are planning to add programs with the accents on the certain muscle groups – accordingly, the restrictions in choice of exercises will coincide with the aim to shift the load in the direction of the certain muscle groups.\n\nQ: Are you planning to change the layout?\nA: In the programs that are available right now, we are not planning. The layout of the exercises in the plan is individual for each current program, and it is created so, because we believe that it is the most effectively for the chosen goal. Therefore the app is positioned as a coach, not as a diary.\n\nQ: Your programs in the app will be suitable only for beginners. Training with the help of the app for experienced athletes have no sense\nA: It depends on the meaning of the word “experienced”. If it means a man, who professionally participates in BB or takes part in powerlifting competitions, so the current programs are not suitable for the preparing. For the rest, who don’t  have the need to work on the target muscle or movement locally, the current program organization will help to achieve the goal faster and safer, in comparison with your own definition of the load and creating a plan (Exclusion: people with different injuries, for whom doing some exercises in the program is not safely). In the process of developing, the programs have been tested on people with different levels of training and experience, and more experienced people had better results more often. It is due to the fact that muscles of a beginner, unaccustomed to the load, grow in response to any adequate load in varying degrees, with the growth of the training level alternation of light trainings with hard trainings and other tricks, which we use in our programs.\n\nQ: What to do after finishing the 6 or 10 week cycles?\nA: If the completed cycle correspond your current goals, repeat it, correcting your working weights based on your achieved progress. Keeping the principle of variety, you are recommended to change partly a set of exercises every 2-3 cycles and a goal of the program.\n\nQ: Why is it suggested to do so few exercises per a one training day?\nA: Because we believe that it is the most effectively. More detailed information you can find in the article “Exercises number in the program” in the app.\n\nQ: Is it possible to change some exercises similarly to mine in the programs?\nA: If you want to replace the exercises, you can enter your working weight for your exercises in those positions, which you want to replace. We are going to expand the base of exercises soon. \n",
+          "ru": "Вопрос:\nПочему нельзя свободно выбирать упражнения для программы?\n Ответ:\nОграничения на выбор упражнений наложены не просто так, нагрузка в течении всего тренировочного цикла во всех нынешних программах рассчитана таким образом, чтобы равномерно нагружались все мышечные группы. Более того, именно такое распределение нагрузки способствует быстрейшему прогрессу в рамках выбранной цели (набор массы, похудение) при соотв. режиме питания. В ближайшем будущем планируем добавить программы с акцентами на определенные группы мышц - соответственно ограничения в выборе упражнений будут совпадать с целью сместить нагрузку в сторону определенных групп мышц. \n\n Вопрос:\nПланируете ли вы изменить компоновку упражнений по дням?\n Ответ: \nВ тех программах, которые доступны на нынешний момент, не планируем. Компоновка упражнений в план индивидуальна для каждой нынешней программы, и выполнена так, потому что мы считаем это наиболее эффективным для выбранной цели. Приложение поэтому и позиционируется как тренер, а не дневник.\n\n Утверждение: \nВаши программы в приложении подойдут только новичкам. Опытным заниматься по ним нет смысла.\n Ответ:\nСмотря что понимать под словом *опытный*. Если понимать человека, который профессионально выступает в ББ или на соревнованиях по пауэрлифтингу, то нынешние программы ему действительно не подойдут для подготовки. Для всех же остальных, кому нет необходимости локально работать на целевые мышцы или движения, нынешняя организация программ поможет гораздо быстрее и безопаснее идти к своей цели, по сравнению с собственным определением нагрузки и составлением плана. (Исключение: люди с травмами, для которых выполнение определенных упражнений в программе небезопасно). В процессе разработки программы тестировались на людях с разным уровнем тренированности и стажем занятий, и на более опытных зачастую они давали даже лучший результат. Связанно это с тем, что непривыкшие к нагрузкам мышцы новичка в той или иной степени отвечают ростом на любую адекватную нагрузку, с ростом же тренированности решающим условием для прогресса является правильное дозирование стресса, чередование легких тренировок с тяжелыми и другие хитрости, которые мы используем в программах.\n\n Вопрос:\nЧто делать после выполнения цикла на 6 или 10 недель?\n Ответ:\nЕсли пройденный цикл соответствует вашим текущим целям, повторите его, скорректировав силовые показатели с учетом полученного прогресса. Для соблюдения принципа вариативности, рекомендуется раз в 2-3 цикла частично изменять набор упражнений, и цель программы.\n\n Вопрос:\nПочему так мало упражнений предлагается делать в один тренировочный день?\n Ответ:\nПотому что мы считаем это наиболее эффективным. Более подробную информацию можете найти во вкладке *Научный подход* в самом приложении.\n\n Вопрос:\nМожно ли заменять некоторые упражнения в программах аналогичными своими?\n Ответ:\nЗаменять упражнения аналогичными вы пока что можете введя силовые показатели для своих упражнений в тех позициях, которые вы хотите заменить. Вскоре расширим базу упражнений."
+        }
+      }
+    ],
+    "links": {
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "serverId": "nakogo",
+    "name": {
+      "en": "Who should use our programs",
+      "ru": "На кого рассчитаны наши программы"
+    },
+    "description": {
+      "en": "Why our programs are effective for people with different level of training ",
+      "ru": "Почему они эффективны для людей с разным уровнем подготовки"
+    },
+    "paragraphs": [
+      {
+        "iconUrl": {
+          "en": "",
+          "ru": ""
+        },
+        "text": {
+          "en": "It is believed, that a beginner with a proper organization of training process and enough nutrition for the goal, is able to gain to 10 kg muscles per a year, while experienced athletes can only gain 1-3 kg. The same applies to the strength: a beginner during some time can increase working weights almost each training, almost any training program, even the most stupid, may have a positive effect. But earlier or later, there is a situation, when your muscles and nervous system have adapted to load, a linear increase in load doesn’t work, and acceptable rates of progress can be maintained only by resorting to clever techniques, such as rotation of low and high intensity, manipulations with volume. At this stage the muscles do not get the shock that causes them to grow, if you are trying to repeat or improve your own record in exercises each training.\n\nIn our programs the creating of optimal schemes of progression are made for each exercise, that’s why you should not to strain your brain with a big amount of variables, and you can only get pleasure from trainings and observed results.\n\nIf you have a wish to take part in development of the project, send your results and comments after the finishing of 6 week cycles to our mail! On the basis of your estimates we are constantly improving the programs.",
+          "ru": "  Почему наши программы эффективны для людей с разным уровнем подготовки, но бОльшую выгоду извлекут те, кто уже имеет за плечами опыт тренировок от 6 месяцев до 2-3 лет.\n\n Считается, что новичок при правильной организации тренировочного процесса и соответствующему цели питанию, может прибавлять до 10 кг чистых мышц в год, в то время как опытным атлетам приходится довольствоваться прогрессом в 1-3 кг. Это же касается и силы: начинающий может какое-то время увеличивать рабочий вес чуть ли не на каждой тренировке, на нем работают практически любые, даже самые бестолковые программы тренировок. Однако раньше или позже возникает ситуация, когда мышцы и нервная система адаптировались к нагрузкам, линейное увеличение параметров нагрузки не работает, а приемлемые темпы прогресса можно поддерживать только прибегая к различным хитрым приемам, таким как чередование низкой и высокой интенсивности, манипуляции с объемом. На этой стадии мышцы уже не получают того шока, который заставляет их расти, если вы пытаетесь на каждой тренировке повторить или улучшить свой личный рекорд в упражнении.\n\n В наших программах построение оптимальных схем прогрессии заложено отдельно для каждого упражнения, поэтому вам не нужно загружать себе голову множеством переменных нагрузки, а остается только получать удовольствие от тренировок и наблюдаемых результатов.\n\n Если у вас есть желание поучаствовать в развитии проекта, присылайте свои результаты и замечания после прохождения 6 недельных циклов на нашу почту! На основе ваших оценок мы постоянно улучшаем программы"
+        }
+      }
+    ],
+    "links": {
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "serverId": "number1",
+    "name": {
+      "en": "The optimal number of exercises in the program",
+      "ru": "Оптимальное количество упражнений в программе"
+    },
+    "description": {
+      "en": "Sometimes you can see the information about what the training plan must contain a big amount of exercises for each muscle group. Let’s see, whether it is true",
+      "ru": "Иногда можно увидеть информацию о том, что программа тренировок должна содержать большое количество упражнений на каждую группу мышц. Давайте разберемся, так ли это."
+    },
+    "paragraphs": [
+      {
+        "iconUrl": {
+          "en": "",
+          "ru": ""
+        },
+        "text": {
+          "en": "The results of numerous scientific research(are presented below) say that the maximal anabolic response during a long distance muscles show in response to the volume of 30-60 reps for a training and the intensity of 70-85% your one rep maximum. By simple calculations, we get 5-8 sets in the range of 8-12 reps for a muscle group that corresponds to 2 exercises per the training session (the number of sets excluding warm-up)",
+          "ru": "  Результат анализа многочисленных научных исследований (представлен ниже) говорит, что наибольший анаболический отклик на длительной дистанции мышцы показывают в ответ на нагрузку объемом 30-60 подъемов (повторений) за тренировку и интенсивностью 70-85% от повторного максимума (ПМ)."
+        }
+      },
+      {
+        "iconUrl": {
+          "en": "repetitions_eng.png",
+          "ru": "repetitions.png"
+        },
+        "text": {
+          "en": "There is a logical justification: the training always causes the destruction of some part of the muscle protein, restoration of loses of which occurs during a rest. If the workload is selected appropriately, the restoration of destroyed muscle fibers occurs over the initial level, but if it turned out to be excessive, the adaptive capacity of the body are enough only to restore up to the initial level.\n\nWhy in this case professional athletes do 4-5 exercises for one muscle group per a workout? The fact is that an ideal day mode, correctly balanced diet and pharmacological support fully compensate catabolic effect of intensive and at the same time volume trainings. The attempts to follow such training plans being a non-professional often lead to the lack of visible progress, overtraining and injuries.\n\nIn our programs the volume is increased by working with weights that are 50-60% from 1 RM to reach the increase of training effect, which have semi warm up character, therefore the necessity to do additional sets due to entering in the plan some additional exercises is absent. The exception is large muscle groups such as legs. Due to the complex structure and the differences of functions of various leg muscles, it is advisable to apply a wider range of exercises.\n\nThus, we can conclude that for the maximal effectiveness of a training plan it should not be overloaded with a big amount of exercises, and it should be drawn up with the most useful basic movements for muscle growth. ",
+          "ru": "  Путем несложных вычислений мы получаем 5-8 подходов для работы в диапазоне 8-12 повторений на одну мышечную группу, что в среднем соответствует 2 упражнениям за одно занятие (количество подходов указано без учета разминки). И этому есть логичное обоснование: сама по себе тренировка всегда вызывает разрушение некоторой части мышечного белка, восполнение потерь которого происходит уже во время отдыха. Если нагрузка выбрана адекватно, то восполнение разрушенных структур происходит сверх изначального уровня, однако если она оказалась чрезмерной, адаптационных возможностей организма хватает разве что на восстановление до исходного состояния.\n\n Почему в таком случае профессиональные атлеты делают по 4-5 упражнений на одну мышечную группу за тренировку? Дело в том, что идеальный режим дня, точно сбалансированный рацион питания и фармакологическая поддержка сполна компенсируют катаболический эффект интенсивной и в то же время объемной тренировки. Попытки же следовать таким прогаммам у непрофессионалов зачастую приводят к отсутствию видимого прогресса, перетренированности и травмам. \n\n В наших программах для увеличения тренировочного эффекта объем повышается посредством работы с весами 50-60% от 1ПМ, которые носят полуразминочный характер, поэтому необходимость выполнять дополнительные подходы за счет введения в программу дополнительных упражнений отсутствует. Исключением являются большие мышечные группы, как, например, ноги. Из за сложного строения и разности функций отдельных мышц ног, к ним целесообразно применять более широкий арсенал упражнений (3-4).\n\n Таким образом можно сделать вывод, что для максимальной эффективности тренировочной программы не следует перегружать ее большим количеством упражнений, а следует составить из самых полезных для мышечного роста – базовых движений."
+        }
+      }
+    ],
+    "links": {
+      "en": "https://www.researchgate.net/publication/6479274_The_Influence_of_Frequency_Intensity_Volume_and_Mode_of_Strength_Training_on_Whole_Muscle_Cross-Sectional_Area_in_Humans",
+      "ru": "https://www.researchgate.net/publication/6479274_The_Influence_of_Frequency_Intensity_Volume_and_Mode_of_Strength_Training_on_Whole_Muscle_Cross-Sectional_Area_in_Humans"
+    }
+  },
+  {
+    "serverId": "trainhard",
+    "name": {
+      "en": "Training to failure",
+      "ru": "Тренировки до предела"
+    },
+    "description": {
+      "en": "Is training to failure helping or hurting you?",
+      "ru": "Необходим и эффективен ли тренинг до отказа?"
+    },
+    "paragraphs": [
+      {
+        "iconUrl": {
+          "en": "",
+          "ru": ""
+        },
+        "text": {
+          "en": "Muscular failure – is the condition, when doing the following rep is impossible, keeping the technique right or without somebody’s help. There are 3 types of it:\n-positive (concentric) – when it is impossible to push the weight up\n-negative (eccentric) – when it is impossible even controlled lowering the weight\n-static (isometric) – holding the weight is impossible\n\nIn fairness we should note that such phenomenon to more extent is true for those, who have some experience in the gym. Beginners can hardly achieve muscular failure, because the brain just stops sending signals to the muscle before it is exhausted.\n\nDespite the fact that the method “to failure” is considered as one of the basic for developing strength and muscle mass, scientific researches says that there is no much difference between those, who regularly train to failure and those, who don’t train in such way. The followers of failure trainings believe that the more occurs the exhausting of muscular creatine (Phosphocreatine) and the more lactate accumulate in muscles, the more adaptive changes and mechanism of supercompensation are included. Such point of view not only is not accepted experimentally, but the trainings to failure have some serious disadvantages in comparison with moderate training:\n- Depletion of CNS, which leads to weakening the impulses of the trained muscles, and it results in stagnation or in falling results\n- The formation of wrong movement stereotype (namely because of this reason you will seldom be able to watch trainings to failure by athletes – weightlifters or powerlifters)\n- Risk of getting an injury, which as well doesn’t contribute to the progress\n\nAbove problems, however, are occurred not because of failure as its nature, but namely because of inadequate number of sets to failure in a training program. Including of it in right way in the plan will only speed up the movement to the chosen goal. As the practice shows, an optimal number of failures per 6-week training cycle is 2-3, while the main part of work must be done with moderate load, which we use creating the training programs for you.",
+          "ru": "  Мышечный отказ – это состояние, когда следующее повторение невозможно, не нарушая техники или без посторонней помощи. Различают 3 вида:\n\n - позитивный (концентрический) – когда мы не в силах осуществить подъем снаряда;\n\n - негативный (эксцентрический) - когда невозможно даже подконтрольное опускание снаряда;\n\n - статический (изометрический) - удержание снаряда невозможно.\n\n Справедливости ради следует отметить, это явление в большей степени актуально для тех, кто уже имеет некоторый опыт занятий в тренажерном зале. У новичков же достижение настоящего отказа встречается редко, так как мозг просто перестает посылать сигналы к мышце еще до того, как она исчерпала свой ресурс.\n\n Не смотря на то, что метод «до отказа» традиционно считается одним из основных для развития силы и мышечной массы, научные исследования* говорят о том, что нет существенного различия в результатах между теми, кто регулярно использует отказ в своих тренировках и теми, кто его не использует вообще. Сторонники отказного тренинга полагают, что чем полнее происходит исчерпание мышечного креатина (креатинфосфата) и чем больше лактата скапливается в мышце, тем сильнее включаться затем адаптационные перестройки и механизм суперкомпенсации. Эта точка зрения не только не подтверждается экспериментально, но работа до предела имеет и несколько серьезных недостатков с сравнении с умеренным тренингом:\n\n - Истощение ЦНС, которое ведет к ослаблению импульсации тренируемых мышц, в следствие чего может происходить застой или падение результатов\n\n - Формирование неправильного двигательного стереотипа (именно по этой причине вы редко увидите отказные тренировки у спортсменов – тяжелоатлетов или пауэрлифтеров)\n\n - Риск получить травму, что так же не способствует прогрессу\n\nК вышеперечисленным неприятностям, однако, приводит не отказ как таковой, а именно неадекватное количество отказных подходов в тренировочной программе. Правильное же включение их в свой план только ускорит движение к выбранной цели. Как показывает практика, оптимальным количеством отказов за 6-недельный тренировочный цикл является 2-3, в то время как основная часть работы должна проходить с умеренной нагрузкой, что мы и используем при составлении вам программы тренировок."
+        }
+      }
+    ],
+    "links": {
+      "en": "https://www.ncbi.nlm.nih.gov/pubmed/16410373",
+      "ru": "https://www.ncbi.nlm.nih.gov/pubmed/16410373"
+    }
+  },
+  {
+    "serverId": "benchpress",
+    "name": {
+      "en": "-",
+      "ru": "Для мужчин. Как увеличить свои результаты в жиме лежа?"
+    },
+    "description": {
+      "en": "-",
+      "ru": "Сила - это в первую очередь навык, который заключается в связи между нашим мозгом и мышцами."
+    },
+    "paragraphs": [
+      {
+        "iconUrl": {
+          "en": "",
+          "ru": ""
+        },
+        "text": {
+          "en": "",
+          "ru": " Сила - это в первую очередь навык, который заключается в связи между нашим мозгом и мышцами. Чем эффективнее работает эта связь,тем больше сократительных единиц в мышцах включается в работу и тем большие веса мы можем преодолеть.\n\n Мы выделили 3 главных ошибки тренинга, исправив которые вы гарантированно начнете прогрессировать:"
+        }
+      },
+      {
+        "iconUrl": {
+          "en": "",
+          "ru": "power1.png"
+        },
+        "text": {
+          "en": "",
+          "ru": " 1) Низкая частота тренировок\n\nЕсли вы заинтересованы в росте силовых показателей в жиме лежа, то тренируя его 1 раз в неделю, далеко не уедешь. В то время, как для гипертрофии бывает достаточно одной тренировки на мышечную группу в неделю, развитие нервно-мышечной связи требует большей частоты.\n\n Как это применить на практике? Добавляем в список упражнений любого из тренировочных дней жим лежа с легкой/средней нагрузкой (кроме того дня, где мы уже тренируем грудь). 60-70% от рабочего веса основного дня в том же диапазоне повторений будет достаточно.\n\n То есть если в день тренировки грудных вы выполняете жим лежа в 4 подходах по 6-8 повторений с весом 80кг, то в любой другой день вам нужно добавить его с весом 50-60кг на те же 6-8 повторений:\n\n День 1. Жим лежа 80 кг 4х8\n\n День 2.\n\n День 3. Жим лежа 60 кг 4х8\n\n *Не смотря на то, что в примере 8 повторений, все же самым эффективным диапазоном повторений для роста силы является 4-6."
+        }
+      },
+      {
+        "iconUrl": {
+          "en": "",
+          "ru": "failure.png"
+        },
+        "text": {
+          "en": "-",
+          "ru": " 2) Много отказов\n\n Достижение отказа - один из основных методов для увеличения силы и массы мышц, однако использование его на каждой тренировке едва ли может привести к существенному прогрессу.\n\n Частая работа до отказа не позволяет полностью восстанавливаться центральной нервной системе, в следствие чего связь между мозгом и мышцами не улучшается, а иногда даже ослабевает, что негативно отражается на силе.\n\n Оптимальный вариант для жима штанги лежа состоит в применении отказной тренировки 1 раз в 3-4 недели. В остальное время должна проходить подготовка к покорению новых рекордов на умеренных рабочих весах, не допуская чрезмерного утомления.\n\n Пример: личный рекорд 90кг 4х6\n\n Неделя 1. 82.5 4х6\n\n Неделя 2. 87,5 4х6\n\n Неделя 3. 92,5 4х6 (если вес на этой тренировке дается уверенно и без отказа, то на следующей неделе его можно увеличить еще)"
+        }
+      },
+      {
+        "iconUrl": {
+          "en": "",
+          "ru": "help.png"
+        },
+        "text": {
+          "en": "",
+          "ru": " 3) Пренебрежение вспомогательными упражнениями\n\n Жим лежа можно условно поделить на 2 фазы: срыв штанги (начальная фаза) и дожим.\n\n Тренинг, направленный на увеличение показателей в жиме должен лежать так же и в области работы над своими слабыми местами. Если первая часть движения дается вам труднее, то целесообразно будет включить в программу жимы с остановками на груди (1-3 сек).\n\n Если же ваша ахилесова пята - конечная фаза (дожим), то больше внимания стоит уделять тренировке трицепса. Хорошим решением является добавление 1-2 упражнений (в режиме средней нагрузки) на трицепс в любой из дней, кроме того, где он уже тренируется. Упражнением *трицепс на блоке* в легком/среднем режиме так же можно заканчивать каждую тренировку в программе."
+        }
+      }
+    ],
+    "links": {
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "serverId": "glutes",
+    "name": {
+      "en": "-",
+      "ru": "Для девушек. Как сделать упругую и круглую попу, не раскачав при этом большие ноги"
+    },
+    "description": {
+      "en": "-",
+      "ru": "Очень часто целью занятий в тренажерном зале помимо приведения в тонус всего тела является формирование круглой и упругой попы."
+    },
+    "paragraphs": [
+      {
+        "iconUrl": {
+          "en": "",
+          "ru": ""
+        },
+        "text": {
+          "en": "-",
+          "ru": " Интернет-мемы вещают, что главным способом достижения такого результата являются приседания со штангой. И действительно это прекрасное упражнение, которое нагружает все тело, но нередко самым выраженным результатом классических приседаний является увеличение бедер, что нравится далеко не всем. Это происходит вследствие большей отзывчивости на нагрузку со стороны квадрицепсов, которые забирают на себя основную часть нагрузки. И такая проблема может иметь место не только в приседаниях, а в большинстве традиционных упражнений, таких как, например, выпады с гантелями. Но большой проблемы тут нет, ведь существуют простые способы для того, чтобы правильно распределить нагрузку между ногами и пятой точкой.\n\n 1. Заменяем классические приседания на приседания в стили «сумо» и «плие»\n 2. Не забываем про упражнения, прицельно работающие по ягодицам: становая тяга на прямых ногах, мостик на лопатках, разведения ног на блоке и др.\n\n Как часто выполнять упражнения и стоит ли выделять в тренировочной программе целый день для проработки ягодичных мышц?\n\n Частота тренировок одной мышечной группы должна зависеть от того, сколько времени требуется для ее восстановления. Если вы уже какое-то время занимаетесь в зале, то тело так или иначе адаптировалось к нагрузкам и этот процесс протекает быстрее, так что тренировать «орех» можно на каждой тренировке, не выделяя под это отдельный день. Однако тут важно не переусердствовать, так как это наоборот замедлит путь к достижению столь желанной цели. \n\n Хорошим решением будет выбор одного из двух вариантов:\n\n 1) Чередование интенсивных тренировок с теми, где нужно просто «погонять кровь».\n 2) Не применять чередование, а все 2-3 тренировки в неделю проводить с нагрузкой выше средней, но не максимальной.\n\n В выборе упражнений руководствуйтесь ощущениями. Если вы чувствуете, что, не смотря на правильное техническое исполнение, во время какого-то упражнения попа явно недополучает нагрузку, а бедра наоборот, то имеет смысл от него отказаться. Это не означает, что нужно вовсе исключить нагрузку на переднюю и заднюю поверхность бедра, но здесь важно найти правильный баланс.\n\n В нашем приложении для девушек мы предлагаем такую схему распределения упражнений на ягодицы и ноги по дням (не для новичков!):\n\n День 1\nПрисед «плие»\nПрисед «сумо» в тренажере смита\nМостик на лопатках\n\nДень 2\nСтановая тяга на прямых ногах\nВыпады\n\n День 3\nПрисед «плие»\nВыпады\nРазведения ног в тренажере"
+        }
+      }
+    ],
+    "links": {
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "serverId": "novicegirls",
+    "name": {
+      "en": "-",
+      "ru": "Для девушек. Как получить максимальную пользу от первых 1-3 месяцев занятий в тренажерном зале?"
+    },
+    "description": {
+      "en": "-",
+      "ru": "С чего лучше начать свой первый опыт в тренажерном зале"
+    },
+    "paragraphs": [
+      {
+        "iconUrl": {
+          "en": "",
+          "ru": ""
+        },
+        "text": {
+          "en": "-",
+          "ru": " Самой распространенной ошибкой у девушек, начинающих свой путь в тренажерном зале является то, что насмотревшись «полезных» роликов в интернете, придя в зал они сразу стремятся осваивать присед, становую тягу и другие базовые, многосуставные упражнения. \n\n Вы спросите: «А что не так? Ведь эти упражнения – самый эффективный способ для достижения желаемых результатов!» \n\n Правильно, нет ничего лучше правильного сочетания базовых и изолирующих упражнений для построения привлекательной фигуры. Но не имея никакого опыта занятий с отягощениями, попытки освоить технически сложные упражнения не только не принесут никакой пользы, но часто могут и навредить.\n\n Суть лежит в области физиологии, а если быть точнее - в таком понятии как «нервно-мышечная координация». Не вдаваясь в тонкости, она отвечает за сигналы, которые наша нервная система передает к мышцам. Соответственно чем качественнее эта связь, тем в большей степени мы контролируем свое тело, а значит от этого зависит и освоение техники упражнений. Как вы уже догадались, у новичков нервно-мышечная координация развита слабо, поэтому попытки сходу выполнять базовые упражнения редко оказываются удачными, а в некоторых случаях приводят к травмам. \n\nОптимальной стратегией с точки зрения результата и минимизации рисков является начало своих тренировок в зале с ПОДГОТОВИТЕЛЬНОГО периода (наша программа для новичков, 6 недель), который состоит из технически простых и в основном изолирующих упражнений. По итогам этого периода вы не только получите заметные результаты в преображении своего тела, но и «прокачаете» нервно-мышечную связь до приемлемого уровня, в следствие чего освоение новых базовых упражнений будет проходить за 1-2 тренировки и без риска для здоровья. \n\nУдачи в тренировках!"
+        }
+      }
+    ],
+    "links": {
+      "en": "",
+      "ru": ""
+    }
+  },
+  {
+    "serverId": "number",
+    "name": {
+      "en": "Why should you change the load periodically? ",
+      "ru": "Почему следует периодически менять нагрузку?"
+    },
+    "description": {
+      "en": "Why should you change the load periodically?",
+      "ru": "Почему следует периодически менять нагрузку?"
+    },
+    "paragraphs": [
+      {
+        "iconUrl": {
+          "en": "",
+          "ru": ""
+        },
+        "text": {
+          "en": "1. One of the main training principles - the principle of variety, says that it is necessary constantly to change an intensity and a character of load. This is due to the fact, that at constant load the muscles get used to a certain value of stimulus, ceasing to respond to positive changes.\n\n  2. Alternation of phases with high and relatively low load should be in training process because during the unloading the processes of adjustment of the organism unfold and as well the stabilization of it at a new functional level. It means that strength and muscle’s size are increased in the periods with low load that follow the periods with maximal load. Such alternation can take different forms: from 1:1 (high load week/ low load week) to 5:1 depending on the specific training program. \n\n  3. Since in majority of the most effective exercises works not only the targeted muscle group, but also a number of others, there is a situation of “overlapping” the load: training in 1 day your chest well, on the second day you will hardly show your best results in training shoulders and vice versa. In both cases triceps and front shoulders work in basic exercises. The same situation is observed in training other muscle groups and avoiding the situation completely is not possible, but in the situations, when in another training you are going to show the best result in one or some exercises, the load in the previous training is consciously decreased.",
+          "ru": "  1. Один из главных тренировочных принципов – принцип вариативности говорит о том, что нужно постоянно изменять интенсивность и характер нагрузки. Это связано с тем обстоятельством, что при неизменной нагрузке мышцы привыкают к определенной величине стимула, переставая отвечать на него положительными изменениями.\n\n  2. Чередование этапов с высокой и относительно низкой степенью нагрузки должно присутствовать в тренировочном процессе еще и потому, что именно во время разгрузки развертываются процессы перестройки организма и стабилизация его на новом функциональном уровне. То есть сила и размер мышц увеличиваются именно в периоды с невысокой нагрузкой, которые следуют за периодами с максимальной нагрузкой. Такое чередование может принимать различные формы: от 1:1 (тяжелая неделя/ легкая неделя) до 5:1  др. в зависимости от конкретной тренировочной программы.\n\n  3. Так как в большинстве наиболее эффективныхупражнений работает не только целевая группа мышц, но еще и ряд других,возникает ситуация «перекрытия» нагрузки: хорошо потренировав в 1 день грудь,во 2 день вы уже едва ли сможете показать свои лучшие результаты в тренировке плеч и наоборот. И там и там в базовых упражнениях работают трицепсы и передние пучки дельтовидных мышц. Эта же ситуация наблюдается и в тренировках других мышечных групп и избежать ее полностью не представляется возможным, однако в тех ситуациях, когда на очередной тренировке предстоит показать максимальный результат в одном или нескольких упражнениях, нагрузка в предшествующей ей тренировке умышленно снижается. "
+        }
+      }
+    ],
+    "links": {
+      "en": "",
+      "ru": ""
+    }
+  }
+]

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/updatePlan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="updatePlan"/>
+
+    <Button
+        android:id="@+id/updateDay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="updateDay"/>
+
+    <Button
+        android:id="@+id/updateDayName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="updateDayName"/>
+    <Button
+        android:id="@+id/updateWorkout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="updateWorkout"/>
+</LinearLayout>

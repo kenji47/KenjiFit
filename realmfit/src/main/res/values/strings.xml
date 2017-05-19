@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealmFit</string>
+    <string name="expanded">expanded: %s</string>
+    <string name="collapsed">collapsed: %s</string>
+</resources>

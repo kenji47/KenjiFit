@@ -1,0 +1,101 @@
+﻿[
+  {
+    "typeStr": "WARM_UP",
+    "typeModelStr": "MUSCLE_GROUP",
+    "serverId": "warmupex",
+    "sexStr": "none",
+    "name": {
+      "en": "Warm up, 15 min.",
+      "ru": "Разминка, 15 минут"
+    },
+    "iconUrl": "ex_sustwarmup_icon.jpg"
+  },
+  {
+    "typeStr": "HITCH",
+    "typeModelStr": "MUSCLE_GROUP",
+    "serverId": "shragi",
+    "sexStr": "MALE",
+    "name": {
+      "en": "Shrags",
+      "ru": "Трапеции"
+    },
+    "iconUrl": "ex_dumbbellshragi_icon.jpg"
+  },
+  {
+    "typeStr": "HITCH",
+    "typeModelStr": "MUSCLE_GROUP",
+    "serverId": "press",
+    "sexStr": "MALE",
+    "name": {
+      "en": "Abs",
+      "ru": "Пресс"
+    },
+    "iconUrl": "ex_press1_icon.jpg"
+  },
+  {
+    "typeStr": "HITCH",
+    "typeModelStr": "MUSCLE_GROUP",
+    "serverId": "wrist",
+    "sexStr": "MALE",
+    "name": {
+      "en": "Wrist",
+      "ru": "Предплечья"
+    },
+    "iconUrl": "ex_wrist1_icon.jpg"
+  },
+  {
+    "typeStr": "HITCH",
+    "typeModelStr": "MUSCLE_GROUP",
+    "serverId": "caviar",
+    "sexStr": "MALE",
+    "name": {
+      "en": "Calf",
+      "ru": "Икроножные мышцы"
+    },
+    "iconUrl": "ex_caviar1_icon.jpg"
+  },
+  {
+    "typeStr": "HITCH",
+    "typeModelStr": "EXERCISE",
+    "serverId": "rastiaszkaex",
+    "sexStr": "MALE",
+    "name": {
+      "en": "Stretching",
+      "ru": "Растяжка"
+    },
+    "iconUrl": "ex_rastiaszkaex_icon.jpg"
+  },
+  {
+    "typeStr": "HITCH",
+    "typeModelStr": "MUSCLE_GROUP",
+    "serverId": "press",
+    "sexStr": "FEMALE",
+    "name": {
+      "en": "Abs",
+      "ru": "Пресс"
+    },
+    "iconUrl": "ex_press5_icon.jpg"
+  },
+  {
+    "typeStr": "HITCH",
+    "typeModelStr": "EXERCISE",
+    "serverId": "cardio",
+    "sexStr": "FEMALE",
+    "name": {
+      "en": "Cardio",
+      "ru": "Кардио"
+    },
+    "iconUrl": "ex_cardio_icon.jpg"
+  },
+  {
+    "typeStr": "HITCH",
+    "typeModelStr": "EXERCISE",
+    "serverId": "rastiaszkaex",
+    "sexStr": "FEMALE",
+    "name": {
+      "en": "Stretching",
+      "ru": "Растяжка"
+    },
+    "iconUrl": "ex_rastiaszkaex_icon.jpg"
+  }
+]

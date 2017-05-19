@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                 xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                 android:layout_width="fill_parent"
+                                                 android:layout_height="fill_parent">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/app_bar_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/collapsing_toolbar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:animateLayoutChanges="true"
+            app:contentScrim="?colorPrimary"
+            app:layout_scrollFlags="exitUntilCollapsed|scroll">
+
+            <RelativeLayout
+                android:id="@+id/headerView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                app:layout_collapseMode="pin">
+
+                <!--<android.support.v7.widget.Toolbar-->
+                    <!--android:id="@+id/toolbar"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:background="@android:color/transparent"-->
+                    <!--android:minHeight="?actionBarSize"-->
+                    <!--android:title=""-->
+                  <!--/>-->
+            </RelativeLayout>
+
+            <!--<ImageView-->
+                <!--android:id="@+id/infoToolbar"-->
+                <!--android:layout_width="?actionBarSize"-->
+                <!--android:layout_height="?actionBarSize"-->
+                <!--android:layout_gravity="right"-->
+                <!--android:scaleType="center"-->
+                <!--android:src="@drawable/ic_info"/>-->
+        </android.support.design.widget.CollapsingToolbarLayout>
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/pagerTabs"
+            android:layout_width="fill_parent"
+            android:layout_height="?actionBarSize"
+            android:layout_gravity="bottom"
+            android:background="?colorPrimary">
+        </android.support.design.widget.TabLayout>
+        <!--<com.astuetz.PagerSlidingTabStrip-->
+            <!--android:id="@+id/pagerTabs"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="?actionBarSize"-->
+            <!--android:layout_gravity="bottom"-->
+            <!--android:background="?colorPrimary"/>-->
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/dictionaryViewPager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/pagerTabs"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/window_background"
+                android:clickable="true"
+                android:focusableInTouchMode="true">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/exitLinearLayout"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/photoMenuImageView"
+                android:layout_width="fill_parent"
+                android:layout_height="244.0dip"
+                android:scaleType="centerCrop"
+                android:src="@drawable/photo_menu"/>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/photoMenuImageView"
+                android:layout_marginTop="@dimen/indent_small"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/trainingPlanButton"
+                    style="@style/MenuButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/menu.item.height"
+                    android:drawableLeft="@drawable/plan_icon"
+                    android:text="@string/menu.item.text.training_plan"/>
+
+                <Button
+                    android:id="@+id/exerciseButton"
+                    style="@style/MenuButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/menu.item.height"
+                    android:drawableLeft="@drawable/exercises"
+                    android:text="@string/menu.item.text.exercise"/>
+
+                <RelativeLayout
+                    android:id="@+id/newScienceLayout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/menu.item.height"
+                    android:background="@color/menu.item.new"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/newScienceButton"
+                        android:layout_width="fill_parent"
+                        android:layout_height="@dimen/menu.item.height"
+                        android:layout_toLeftOf="@+id/newItem"
+                        android:background="#00ffffff"
+                        android:drawableLeft="@drawable/new_science_icon"
+                        android:drawablePadding="20.0dip"
+                        android:gravity="center|left"
+                        android:paddingLeft="@dimen/menu.item.left_padding"
+                        android:paddingRight="@dimen/menu.item.left_padding"
+                        android:text="@string/menu.item.text.science"
+                        android:textColor="@color/window_background"
+                        android:textSize="16.0sp"
+                        android:textStyle="bold"/>
+
+                    <TextView
+                        android:id="@id/newItem"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/menu.item.height"
+                        android:layout_alignParentRight="true"
+                        android:gravity="center|left"
+                        android:paddingRight="@dimen/menu.item.left_padding"
+                        android:text="@string/menu.text.new"
+                        android:textColor="@color/tutorial.p5.bg"
+                        android:textSize="12.0dip"/>
+                </RelativeLayout>
+
+                <Button
+                    android:id="@+id/scienceButton"
+                    style="@style/MenuButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/menu.item.height"
+                    android:drawableLeft="@drawable/science_icon"
+                    android:text="@string/menu.item.text.science"
+                    android:visibility="gone"/>
+
+                <Button
+                    android:id="@+id/manualButton"
+                    style="@style/MenuButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/menu.item.height"
+                    android:drawableLeft="@drawable/info_icon"
+                    android:text="@string/menu.item.text.manual"/>
+
+                <Button
+                    android:id="@+id/settingsButton"
+                    style="@style/MenuButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/menu.item.height"
+                    android:drawableLeft="@drawable/settings_icon"
+                    android:text="@string/menu.item.text.settings"/>
+
+                <View
+                    android:id="@+id/divider"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/item.exercise.divider.height"
+                    android:background="@color/item.exercise.divider.color"/>
+
+                <Button
+                    android:id="@+id/connectButton"
+                    style="@style/MenuButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/menu.item.height"
+                    android:drawableLeft="@drawable/mail_icon"
+                    android:text="@string/menu.item.text.connect"/>
+
+                <Button
+                    android:id="@+id/pollingButton"
+                    style="@style/MenuButton"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/menu.item.height"
+                    android:drawableLeft="@drawable/polling_icon"
+                    android:text="@string/menu.item.text.polling"/>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@id/exitLinearLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/indent_large"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/exitButton"
+            style="@style/MenuButton"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/menu.item.height"
+            android:background="@drawable/button_menu_exit_selector"
+            android:drawableLeft="@drawable/close_icon"
+            android:shadowColor="@android:color/transparent"
+            android:text="@string/menu.item.text.exit"
+            android:visibility="gone"/>
+    </LinearLayout>
+</RelativeLayout>

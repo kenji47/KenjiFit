@@ -1,0 +1,3811 @@
+﻿[
+  {
+    "exercises": [
+      {
+        "iconUrl": "ex_squats_icon.jpg",
+        "name": {
+          "en": "Back squat",
+          "ru": "Приседания со штангой"
+        },
+        "performance": 20,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "squats",
+        "description": {
+          "en": "Main muscle: quadriceps (front of the thigh), glutes\n\nOther muscle: hamstring, lower back\n\nCommon mistakes in doing squats:\n-rounding the back\n-non-synchronous straightening  legs and torso\n-knees caving while squating up\n-lifting your heels",
+          "ru": "Целевые мышцы: четырехглавая мышца бедра (передняя поверхность бедра)\n\nМышцы, также участвующие в упражнении: большая ягодичная мышца, двуглавая мышца бедра, мышцы-разгибатели позвоночника\n\nОшибки в выполнении упражнения:\n-скругление спины\n-неодновременное разгибание ног и туловища\n-сведение коленей во время вставания со штангой\n-отрыв пяток от пола"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Stand in front of the barbell and grasp the bar with the hands at the most comfortable width for you, slide under the bar, force your shoulder blades together, straining and arching the back. Then remove the barbell from the racks and take 1-2 steps back",
+              "ru": "Шаг 1: Встав перед штангой и взявшись за гриф на удобной для вас ширине, подсядьте под него, сведя лопатки, прогнув и напрягши спину. Затем снимите штангу со стоек и сделайте 1-2 шага назад"
+            },
+            "iconUrl": "ex_squats_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Take the initial position, shoulder blades are pinched together, the back is tensed, there is a natural arch in lower back, chin is slightly raised, feet are about shoulder-width apart, toes are pointed slightly outward",
+              "ru": "Шаг 2: Займите исходное положение, при котором лопатки сведены, спина напряжена, в пояснице присутствует естественный прогиб, подбородок слегка приподнят, стопы стоят примерно на ширине плеч, носки немного разведены в стороны"
+            },
+            "iconUrl": "ex_squats_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Squat down until your hips are parallel to the floor. During the movement the knees must be in one direction with the toes",
+              "ru": "Шаг 3: Присядьте до уровня параллели бедра с полом. Во время движения колени должны «смотреть» строго по направлению носков"
+            },
+            "iconUrl": "ex_squats_step_3.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 4: Take the initial position",
+              "ru": "Шаг 4: Встаньте в исходное положение"
+            },
+            "iconUrl": "ex_squats_step_2.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_squats1_icon.jpg",
+        "name": {
+          "en": "Front squat",
+          "ru": "Приседания со штангой на груди"
+        },
+        "performance": 19,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "squats1",
+        "description": {
+          "en": "Main muscle: quadriceps (front of the thigh)\n\nOther muscle: glutes, hamstring, lower back\n\nMistakes in doing the exercise:\n-rounding the back\n-non-synchronous straightening of legs and torso\n-knees caving while squating up\n-lifting your heels",
+          "ru": "Целевые мышцы: четырехглавая мышца бедра (передняя поверхность бедра)\n\nМышцы, также участвующие в упражнении: большая ягодичная мышца, двуглавая мышца бедра, мышцы-разгибатели позвоночника\n\nОшибки в выполнении упражнения:\n-скругление спины\n-неодновременное разгибание ног и туловища\n-сведение коленей во время вставания со штангой\n-отрыв пяток от пола"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Standing in front of the barbell and grasping the bar at a comfortable width, slide under the bar and place it on the chest, arching and straining the back. Then remove the barbell from the racks and take 1-2 steps back",
+              "ru": "Шаг 1: Встав перед штангой и взявшись за гриф на удобной для вас ширине, подсядьте под него, уперевшись грудью, прогнув и напрягши спину. Затем снимите штангу со стоек и сделайте 1-2 шага назад"
+            },
+            "iconUrl": "ex_squats1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Take the initial position, shoulder blades are pinched together, the back is tensed, there is a natural arch in lower back, chin is slightly raised, feet are about shoulder-width apart, toes are slightly pointed outward",
+              "ru": "Шаг 2: Займите исходное положение, при котором лопатки сведены, спина напряжена, в пояснице присутствует естественный прогиб, подбородок слегка приподнят, стопы стоят примерно на ширине плеч, носки немного разведены в стороны"
+            },
+            "iconUrl": "ex_squats1_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Squat down until your hips are parallel to the floor. During the movement the knees must be in one direction with the toes",
+              "ru": "Шаг 3: Присядьте до уровня параллели бедра с полом. Во время движения колени должны «смотреть» строго по направлению носков"
+            },
+            "iconUrl": "ex_squats1_step_3.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 4: Take the initial position",
+              "ru": "Шаг 4: Встаньте в исходное положение"
+            },
+            "iconUrl": "ex_squats1_step_2.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_legpress_icon.jpg",
+        "name": {
+          "en": "Leg press",
+          "ru": "Жим ногами"
+        },
+        "performance": 18,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "legpress",
+        "description": {
+          "en": "Main muscle: quadriceps (front of the thigh), glutes\n\nOther muscle:\n-separation of the lumbar from the back of the machine",
+          "ru": "Целевые мышцы: четырехглавая мышца бедра (передняя поверхность бедра), большая ягодичная мышца\n\nОшибки в выполнении упражнения:\n-отрыв поясничного отдела от спинки"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Lying in a machine, press the lower back to the back of the machine, place your legs on the platform",
+              "ru": "Шаг 1: Лежа в тренажере, прижмите поясницу к спинке, ноги поставьте на платформу"
+            },
+            "iconUrl": "ex_legpress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your legs",
+              "ru": "Шаг 2: Согните ноги"
+            },
+            "iconUrl": "ex_legpress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Take the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_legpress_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_plie_icon.jpg",
+        "name": {
+          "en": "Plie squat",
+          "ru": "Присед плие"
+        },
+        "performance": 17,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "plie",
+        "description": {
+          "en": "Main muscle: glutes, quadriceps (front of the thigh)",
+          "ru": "Основные мышцы: ягодичная, четырехглавая мышца бедра"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The feet stand wider than the shoulders, the toes are pointed outward to an angle of 45 degrees. Arms hold the base of the dumbbells between the legs, there is a natural arch in the back and the back is tensed.",
+              "ru": "Шаг 1: Ноги шире плеч, носки разведены в стороны до угла 45 градусов. Руки удерживают основание гантели между ног, спина имеет естественный прогиб и напряжена"
+            },
+            "iconUrl": "ex_plie_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 1: Side view",
+              "ru": "Шаг 1: Вид сбоку"
+            },
+            "iconUrl": "ex_plie_step_1a.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Slowly lower yourself until the thighs are parallel to the floor, not leaning the torso forward",
+              "ru": "Шаг 2: Медленно опуститесь вниз до параллели бедер с полом, не наклоняясь корпусом вперед"
+            },
+            "iconUrl": "ex_plie_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Side view",
+              "ru": "Шаг 2: Вид сбоку "
+            },
+            "iconUrl": "ex_plie_step_2a.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Take the initial position",
+              "ru": "Шаг 3: Встаньте в исходное положение"
+            },
+            "iconUrl": "ex_plie_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_widesq_icon.jpg",
+        "name": {
+          "en": "Smith machine sumo squat",
+          "ru": "Присед сумо в смите"
+        },
+        "performance": 16,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "widesmit",
+        "description": {
+          "en": "Main muscle: glutes, quadriceps (front of the thigh)",
+          "ru": "Основные мышцы: ягодичная, четырехглавая мышца бедра"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The feet stand wider than the shoulders, the toes are pointed outward to an angle of 45 degrees, the barbell lies on the back, the shoulders blades are pinched together",
+              "ru": "Шаг 1: Ноги шире плеч, носки разведены в стороны до угла 45 градусов, гриф лежит на спине, лопатки сведены"
+            },
+            "iconUrl": "ex_widesq_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Slowly lower yourself until the thighs are parallel to the floor",
+              "ru": "Шаг 2: Медленно опуститесь вниз до параллели бедер с полом"
+            },
+            "iconUrl": "ex_widesq_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Take the initial position",
+              "ru": "Шаг 3: Встаньте в исходное положение"
+            },
+            "iconUrl": "ex_widesq_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_deadlift1_icon.jpg",
+        "name": {
+          "en": "Stiff-legged deadlift",
+          "ru": "Становая тяга на прямых ногах"
+        },
+        "performance": 3,
+        "pmCoefficientsStr": "1.0,1.065,1.13,1.147,1.164,1.181,1.198,1.232,1.256,1.27",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "deadlift1",
+        "description": {
+          "en": "Main muscle: hamstring, glutes\n\nOther muscle:\nquadriceps, lower back, trapezius, forearm muscles\n\nMistakes in doing the exercise:\n-Deadlifting with a rounded back",
+          "ru": "Целевые мышцы: двуглавая мышца бедра, большая ягодичная мышца (задняя поверхность бедра)\n\nМышцы, также участвующие в движении:\nчетырехглавая мышца бедра, мышцы-разгибатели позвоночника, трапециевидные мышцы, мышцы предплечья\n\nОшибки в выполнении упражнения:\n-тяга и опускание штанги со скругленной спиной"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The torso is in a vertical position, the knees are slightly bent, toes are slightly pointed outward",
+              "ru": "Шаг 1: Корпус находится в вертикальном положении, ноги в коленях немного согнуты, носки слегка разведены в стороны"
+            },
+            "iconUrl": "ex_deadlift1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower the barbell until the level of knees, keeping the arch in lower back",
+              "ru": "Шаг 2: Опустите штангу примерно до уровня коленей, сохраняя прогиб в пояснице"
+            },
+            "iconUrl": "ex_deadlift1_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3:Take the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_deadlift1_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_dumbbellift_icon.jpg",
+        "name": {
+          "en": "Stiff-legged dumbbell deadlift",
+          "ru": "Тяга гантелей на прямых ногах"
+        },
+        "performance": 2,
+        "pmCoefficientsStr": "1.0,1.065,1.13,1.147,1.164,1.181,1.198,1.232,1.256,1.27",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "dumbbellift",
+        "description": {
+          "en": "Main muscle: hamstring, glutes\n\nOther muscle:\nquadriceps, lower back, trapezius, forearm muscles\n\nMistakes in doing the exercise:\n-Deadlifting with a rounded back",
+          "ru": "Целевые мышцы: двуглавая мышца бедра, большая ягодичная мышца (задняя поверхность бедра)\n\nМышцы, также участвующие в движении:\nчетырехглавая мышца бедра, мышцы-разгибатели позвоночника, трапециевидные мышцы, мышцы предплечья\n\nОшибки в выполнении упражнения:\n-тяга и опускание гантелей со скругленной спиной"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The torso is in a vertical position, the knees are slightly bent, toes are slightly pointed outward",
+              "ru": "Шаг 1: Корпус находится в вертикальном положении, ноги в коленях немного согнуты, носки слегка разведены в стороны"
+            },
+            "iconUrl": "ex_dumbbellift_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower the dumbbells until the level of knees, keeping the arch in lower back",
+              "ru": "Шаг 2: Опустите гантели примерно до уровня коленей, сохраняя прогиб в пояснице"
+            },
+            "iconUrl": "ex_dumbbellift_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3:Take the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_dumbbellift_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_lunge_icon.jpg",
+        "name": {
+          "en": "Dumbbell lunges",
+          "ru": "Выпады с гантелями"
+        },
+        "performance": 13,
+        "pmCoefficientsStr": "1.0,1.065,1.13,1.147,1.164,1.181,1.198,1.232,1.256,1.27",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "lunge",
+        "description": {
+          "en": "Main muscle: glutes\n\nOther muscle:quadriceps\n\nMistakes in doing the exercise:\n-lifting the heel of front leg\n-the knee of front leg is over the toe",
+          "ru": "Целевые мышцы: большая ягодичная мышца\n\nМышцы, также участвующие в движении: четырехглавая мышца бедра\n\nОшибки в выполнении упражнения:\n-отрыв пятки передней ноги\n-выведение колена передней ноги за носок"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The feet stand on the width slightly narrower than shoulders, the torso is in vertical position",
+              "ru": "Шаг 1: Стопы стоят чуть уже ширины плеч, корпус находится в вертикальном положении"
+            },
+            "iconUrl": "ex_lunge_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Make a lunge forward, keeping torso in a vertical position. The angle in the knee at the lowest point must be approximately equal to 90 degrees",
+              "ru": "Шаг 2: Сделайте выпад вперед, сохраняя вертикальное положение корпуса. Угол в колене в нижней точке должен быть примерно равен 90 градусов"
+            },
+            "iconUrl": "ex_lunge_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Powerfully pushing off the heel of your front leg, return to the initial position",
+              "ru": "Шаг 3: Мощно оттолкнувшись передней ногой, вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_lunge_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_barbelllunge_icon.jpg",
+        "name": {
+          "en": "Barbell lunges",
+          "ru": "Выпады со штангой"
+        },
+        "performance": 13,
+        "pmCoefficientsStr": "1.0,1.065,1.13,1.147,1.164,1.181,1.198,1.232,1.256,1.27",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "barbelllunge",
+        "description": {
+          "en": "Main muscle: glutes\n\nOther muscle:quadriceps\n\nMistakes in doing the exercise:\n-lifting the heel of front leg\n-the knee of front leg is over the toe",
+          "ru": "Целевые мышцы: большая ягодичная мышца\n\nМышцы, также участвующие в движении: четырехглавая мышца бедра\n\nОшибки в выполнении упражнения:\n-отрыв пятки передней ноги\n-выведение колена передней ноги за носок"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The feet stand on the width slightly narrower than shoulders, the torso is in vertical position",
+              "ru": "Шаг 1: Стопы стоят чуть уже ширины плеч, корпус находится в вертикальном положении"
+            },
+            "iconUrl": "ex_barbelllunge_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Make a lunge forward, keeping torso in a vertical position. The angle in the knee at the lowest point must be approximately equal to 90 degrees",
+              "ru": "Шаг 2: Сделайте выпад вперед, сохраняя вертикальное положение корпуса. Угол в колене в нижней точке должен быть примерно равен 90 градусов"
+            },
+            "iconUrl": "ex_barbelllunge_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Powerfully pushing off the heel of your front leg, return to the initial position",
+              "ru": "Шаг 3: Мощно оттолкнувшись передней ногой, вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_barbelllunge_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_hacksquats_icon.jpg",
+        "name": {
+          "en": "Hack-machine squats",
+          "ru": "Присед в Гакк-машине"
+        },
+        "performance": 12,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "hacksquats",
+        "description": {
+          "en": "Main muscle: quadriceps (front of the thigh)\n\nOther Muscle: glutes",
+          "ru": "Целевые мышцы: четырехглавая мышца бедра (передняя поверхность бедра)\n\nМышцы, также участвующие в упражнении: большая ягодичная мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The feet are about shoulder-width apart, pushed forward, the toes are slightly pointed outward",
+              "ru": "Шаг 1: Стопы примерно на ширине плеч, выдвинуты вперед; носки немного разведены в стороны"
+            },
+            "iconUrl": "ex_hacksquats_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Squat down until the angle in knees is equal to 90 degrees or a little deeper",
+              "ru": "Шаг 2: Присядьте до угла в коленных суставах 90 градусов или чуть глубже"
+            },
+            "iconUrl": "ex_hacksquats_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Take the initial position",
+              "ru": "Шаг 3: Примите исходное положение"
+            },
+            "iconUrl": "ex_hacksquats_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_smittsquats_icon.jpg",
+        "name": {
+          "en": "Smith machine squats",
+          "ru": "Приседания в тренажере Смитта"
+        },
+        "performance": 11,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "smittsquats",
+        "description": {
+          "en": "Main muscle: quadriceps (front of the thigh)\n\nOther muscle: glutes, hamstring, lowerback\n\nMistakes in doing the exercise:\n-rounding the back\n-non-synchronous straightening legs and torso\n-knees caving while squating up\n-lifting your heels\",",
+          "ru": "Целевые мышцы: четырехглавая мышца бедра (передняя поверхность бедра)\n\nМышцы, также участвующие в упражнении: большая ягодичная мышца, двуглавая мышца бедра, мышцы-разгибатели позвоночника\n\nОшибки в выполнении упражнения:\n-скругление спины\n-неодновременное разгибание ног и туловища\n-сведение коленей во время вставания со штангой\n-отрыв пяток от пола"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Stand in front of the barbell and grasp the bar with the hands at the most comfortable width for you, slide under the bar, force your shoulder blades together, straining and arching the back.:",
+              "ru": "Шаг 1: Встав перед штангой и взявшись за гриф на удобной для вас ширине, подсядьте под него, сведя лопатки, прогнув и напрягши спину"
+            },
+            "iconUrl": "ex_smittsquats_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Take the initial position, shoulder blades are pinched together, the back is tensed, there is a natural arch in lower back, chin is slightly raised, feet are about shoulder-width apart, toes are slightly pointed outward",
+              "ru": "Шаг 2: Займите исходное положение, при котором лопатки сведены, спина напряжена, в пояснице присутствует естественный прогиб, подбородок слегка приподнят, стопы стоят примерно на ширине плеч, носки немного разведены в стороны"
+            },
+            "iconUrl": "ex_smittsquats_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Squat down until your hips are parallel to the floor. During the movement the knees must be in one direction with the toes",
+              "ru": "Шаг 3: Присядьте до уровня параллели бедра с полом. Во время движения колени должны «смотреть» строго по направлению носков"
+            },
+            "iconUrl": "ex_smittsquats_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 4: Take the initial position",
+              "ru": "Шаг 4: Встаньте в исходное положение"
+            },
+            "iconUrl": "ex_smittsquats_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_smittsquats1_icon.jpg",
+        "name": {
+          "en": "Smith machine front squats",
+          "ru": "Приседания в тренажере Смитта со штангой на груди"
+        },
+        "performance": 10,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "smittsquats1",
+        "description": {
+          "en": "Main muscle: quadriceps (front of the thigh)\n\nOther muscle: glutes, lower back\n\nMistakes in doing the exercise:\n-rounding the back\n-non-synchronous straightening  legs and torso\n-knees caving while squating up\n-lifting your heels",
+          "ru": "Целевые мышцы: четырехглавая мышца бедра (передняя поверхность бедра)\n\nМышцы, также участвующие в упражнении: большая ягодичная мышца, двуглавая мышца бедра, мышцы-разгибатели позвоночника\n\nОшибки в выполнении упражнения:\n-скругление спины\n-неодновременное разгибание ног и туловища\n-сведение коленей во время вставания со штангой\n-отрыв пяток от пола"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Standing in front of the barbell and grasping the bar at a comfortable width, slide under the bar place it on the chest, arching and straining the back.",
+              "ru": "Шаг 1: Встав перед штангой и взявшись за гриф на удобной для вас ширине, подсядьте под него, уперевшись грудью, прогнув и напрягши спину"
+            },
+            "iconUrl": "ex_smittsquats1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Take the initial position, shoulder blades are pinched together, the back is tensed, there is a natural arch in lower back, chin is slightly raised, feet are about shoulder-width apart, toes are slightly pointed outward",
+              "ru": "Шаг 2: Займите исходное положение, при котором лопатки сведены, спина напряжена, в пояснице присутствует естественный прогиб, подбородок слегка приподнят, стопы стоят примерно на ширине плеч, носки немного разведены в стороны"
+            },
+            "iconUrl": "ex_smittsquats1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Squat down until your hips are parallel to the floor. During the movement the knees must be in one direction with the toes",
+              "ru": "Шаг 3: Присядьте до уровня параллели бедра с полом. Во время движения колени должны «смотреть» строго по направлению носков"
+            },
+            "iconUrl": "ex_smittsquats1_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 4: Take the initial position",
+              "ru": "Шаг 4: Встаньте в исходное положение"
+            },
+            "iconUrl": "ex_smittsquats1_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_leg_extensions_icon.jpg",
+        "name": {
+          "en": "Leg extentions",
+          "ru": "Разгибания ног в тренажере"
+        },
+        "performance": 9,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "leg_extensions",
+        "description": {
+          "en": "Main muscle: quadriceps (front of the thigh)",
+          "ru": "Целевые мышцы: четырехглавая мышца бедра (передняя поверхность бедра)"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Take a position in which your legs touch the pads, the back is pressed to the back of the machine",
+              "ru": "Шаг 1: Примите положение, при котором ноги касаются валиков, спина прижата к спинке тренажера"
+            },
+            "iconUrl": "ex_leg_extensions_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Extend your legs",
+              "ru": "Шаг 2: Разогните голени"
+            },
+            "iconUrl": "ex_leg_extensions_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Take the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_leg_extensions_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_otvedenie_icon.jpg",
+        "name": {
+          "en": "One-Legged Cable Kickback",
+          "ru": "Отведение ноги назад в тренажере"
+        },
+        "performance": 8,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "otvedenie",
+        "description": {
+          "en": "Main muscle: glutes\n\nOther muscle muscle: hamstring ",
+          "ru": "Основные мышцы: ягодичная\n\nМышцы-ассистенты: двуглавая мышца бедра"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1:Press your foot to the platform or fix it with an ankle cuff (depending on the type of the simulator)",
+              "ru": "Шаг 1: Упритесь ногой в платформу или закрепите на лодыжке манжету (в зависимости от типа тренажера)"
+            },
+            "iconUrl": "ex_otvedenie_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2 Pull the leg back and pause at the highest point for 1-2 seconds",
+              "ru": "Шаг 2: Отведите ногу назад и задержитесь в верхней точке на 1-2 сек"
+            },
+            "iconUrl": "ex_otvedenie_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3 Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_otvedenie_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_bridge_icon.jpg",
+        "name": {
+          "en": "Back bridge",
+          "ru": "Мостик на лопатках"
+        },
+        "performance": 7,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "bridge",
+        "description": {
+          "en": "Main muscle: glutes\n\nOther muscle: hamstring, quadriceps (front of the thigh)\n\nMistakes:\nLifting your heels\nShifting the weight on the neck while raising the thighs",
+          "ru": "Мышцы-ассистенты: двуглавая мышца бедра, четырехглавая мышца бедра\n\nОшибки:\n-отрыв стоп от пола\n-перенос веса на шею во время подъема бедер"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Lie on the back, bending your knees and press your feet to the floor, the arms are along the body or holding a dumbbell/barbell disc",
+              "ru": "Шаг 1: Лягте на спину, согнув ноги в коленях и уперевшись стопами в пол, руки вдоль корпуса или удерживают гантель/блин"
+            },
+            "iconUrl": "ex_bridge_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Raise the thighs as high as possible, pausing at the top for a few seconds",
+              "ru": "Шаг 2: Поднимите бедра как можно выше, задержавшись в верхней точке на 1-2 сек."
+            },
+            "iconUrl": "ex_bridge_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_bridge_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_lying_leg_curls_icon.jpg",
+        "name": {
+          "en": "Lying leg curls",
+          "ru": "Сгибания ног в тренажере"
+        },
+        "performance": 6,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "lying_leg_curls",
+        "description": {
+          "en": "Main muscle: hamstring\n\nOther muscle: calf",
+          "ru": "Целевые мышцы: двуглавая мышца бедра (задняя поверхность бедра)\n\nМышцы, также участвующие в движении: икроножная мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Lay on the bench, grab the side handles of the machine, put legs under the pads",
+              "ru": "Шаг 1: Лягте на скамью, возьмитесь руками за рукоятки тренажера, ноги заведите под валики"
+            },
+            "iconUrl": "ex_lying_leg_curls_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your legs",
+              "ru": "Шаг 2: Согните ноги"
+            },
+            "iconUrl": "ex_lying_leg_curls_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Slowly return to the initial position",
+              "ru": "Шаг 3: Медленно вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_lying_leg_curls_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_abductor_icon.jpg",
+        "name": {
+          "en": "Thigh adductor",
+          "ru": "Сведение ног в тренажере"
+        },
+        "performance": 5,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "abductor",
+        "description": {
+          "en": "Main muscle: the adductor muscles (inner thigh)",
+          "ru": "Целевые мышцы: приводящие мышцы (внутренняя поверхность бедра)"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Take the initial position",
+              "ru": "Шаг 1: Займите исходное положение"
+            },
+            "iconUrl": "ex_abductor_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Press against the machine with your legs to move them towards each other",
+              "ru": "Шаг 2: Сведите ноги"
+            },
+            "iconUrl": "ex_abductor_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Slowly return to the initial position",
+              "ru": "Шаг 3: Медленно вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_abductor_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_abductor1_icon.jpg",
+        "name": {
+          "en": "Thigh abductor",
+          "ru": "Разведение ног в тренажере"
+        },
+        "performance": 4,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "abductor1",
+        "description": {
+          "en": "Main muscle: glutes",
+          "ru": "Целевые мышцы:  большая ягодичная мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Take the initial position",
+              "ru": "Шаг 1: Займите исходное положение"
+            },
+            "iconUrl": "ex_abductor1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Press against the machine with your legs to move them maximally away from each other",
+              "ru": "Шаг 2: Максимально широко разведите ноги"
+            },
+            "iconUrl": "ex_abductor1_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Slowly return to the initial position",
+              "ru": "Шаг 3: Медленно вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_abductor1_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_hyper_icon.jpg",
+        "name": {
+          "en": "Hyper-extension",
+          "ru": "Гиперэкстензия"
+        },
+        "performance": 1,
+        "pmCoefficientsStr": "1.0,1.0475,1.13,1.1575,1.2,1.242,1.284,1.326,1.368,1.41",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "hyper",
+        "description": {
+          "en": "Main muscle: glutes, hamstring (inner thigh)",
+          "ru": "Целевые мышцы:  большая ягодичная мышца, двуглавая мышца бедра (задняя поверхность бедра)"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Take the initial position in which your ankles are fixed under the pads, the torso is lowered vertically down",
+              "ru": "Шаг 1: Займите исходное положение, при котором лодыжки зафиксированы под валиками, туловище опущено вертикально вниз"
+            },
+            "iconUrl": "ex_hyper_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Raise the torso up, arching the lumbar until the level, which is slightly higher the parallel with the floor",
+              "ru": "Шаг 2: Поднимите туловище вверх, прогибаясь в поясничном отделе до уровня чуть выше параллели с полом"
+            },
+            "iconUrl": "ex_hyper_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Take the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_hyper_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      }
+    ],
+    "name": {
+      "en_male": "Legs",
+      "ru_male": "Ноги",
+      "en_female": "Legs/glutes",
+      "ru_female": "Ноги/ягодицы"
+    },
+    "serverId": "legs"
+  },
+  {
+    "exercises": [
+      {
+        "iconUrl": "ex_benchpress_icon.jpg",
+        "name": {
+          "en": "Benchpress",
+          "ru": "Жим штанги лёжа"
+        },
+        "performance": 10,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "benchpress",
+        "description": {
+          "en": "Main muscle: pecs muscles\n\nOther muscle: deltoid, triceps, elbow muscle\n\nMistakes in doing the exercise:\n-lifting your back of the head or glutes off the bench\n-bouncing the bar\n-changing foot position during the set",
+          "ru": "Целевые мышцы: большая грудная мышца\n\nМышцы, также участвующие в упражнении: передний пучок дельтовидной мышцы, трехглавая мышца плеча, локтевая мышца\n\nОшибки в выполнении упражнения:\n-отрыв затылка и ягодиц от скамьи\n-«отбив» штанги от груди\n-изменение положения ступней во время подхода"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Lie on the bench so that eyes are appeared exactly under the bar, which is lying on the racks and grasp the barbell. Back of the head, shoulder blades and glutes are pressed to the bench, feet are strongly pressed to the floor. Take the bar from the racks",
+              "ru": "Шаг 1: Лягте на скамью таким образом, чтобы глаза находились точно под грифом, лежащим на стойках и возьмитесь за гриф. Затылок, лопатки и ягодицы прижаты к скамье, стопы плотно упираются в пол. Снимите штангу со стоек"
+            },
+            "iconUrl": "ex_benchpress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower the bar on your chest so that forearms are in a position perpendicular to the floor",
+              "ru": "Шаг 2: Опустите штангу на грудь таким образом, чтобы предплечья находились в положении, перпендикулярном полу"
+            },
+            "iconUrl": "ex_benchpress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Squeeze the bar",
+              "ru": "Шаг 3: Выжмите штангу вверх"
+            },
+            "iconUrl": "ex_benchpress_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_benchpress1_icon.jpg",
+        "name": {
+          "en": "Incline benchpress",
+          "ru": "Жим штанги лёжа на наклонной скамье"
+        },
+        "performance": 9,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "benchpress1",
+        "description": {
+          "en": "Main muscle: pecs muscles\n\nOther muscle: deltoid, triceps, elbow muscle\n\nMistakes in doing the exercise:\n-lifting your back of the head or glutes off the bench\n-bouncing the bar\n-changing foot position during the set",
+          "ru": "Целевые мышцы: большая грудная мышца\n\nМышцы, также участвующие в упражнении: передний пучок дельтовидной мышцы, трехглавая мышца плеча, локтевая мышца\n\nОшибки в выполнении упражнения:\n-отрыв затылка и ягодиц от скамьи\n-«отбив» штанги от груди\n-изменение положения ступней во время подхода"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Lie on the bench so that eyes are appeared exactly under the bar, which is lying on the racks and grasp the barbell. Back of the head, shoulder blades and glutes are pressed to the bench, feet are strongly pressed to the floor. Take the bar from the racks",
+              "ru": "Шаг 1: Лягте на скамью таким образом, чтобы глаза находились точно под грифом, лежащим на стойках и возьмитесь за гриф. Затылок, лопатки и ягодицы прижаты к скамье, стопы плотно упираются в пол. Снимите штангу со стоек"
+            },
+            "iconUrl": "ex_benchpress1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower the bar on your chest to the level of clavicle so that forearms are in position perpendicular to the floor",
+              "ru": "Шаг 2: Опустите штангу на грудь до уровня ключиц таким образом, чтобы предплечья находились в положении, перпендикулярном полу"
+            },
+            "iconUrl": "ex_benchpress1_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Squeeze the bar",
+              "ru": "Шаг 3: Выжмите штангу вверх"
+            },
+            "iconUrl": "ex_benchpress1_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_dumbbell_benchpress_icon.jpg",
+        "name": {
+          "en": "Dumbbell benchpress",
+          "ru": "Жим гантелей лежа"
+        },
+        "performance": 7,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "dumbbell_benchpress",
+        "description": {
+          "en": "Main muslce: pecs muscles\n\nOther muscle: deltoid, triceps, elbow muslce\n\nMistakes in doing the exercise:\n-lifting your back of the head or glutes off the bench\n-changing foot position during the set",
+          "ru": "Целевые мышцы: большая грудная мышца\n\nМышцы, также учавствующие в движении: передний пучок дельтовидной мышцы, трехглавая мышца плеча, локтевая мышца\n\nОшибки в выполнении упражнения:\n-отрыв затылка и ягодиц от скамьи\n-изменение положения ступней во время подхода"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Back of the head, shoulder blades and glutes are pressed to the bench, feet are strongly pressed to the floor, dumbbells are on the same horizontal line; arms are in position perpendicular to the floor.",
+              "ru": "Шаг 1: Затылок, лопатки и ягодицы прижаты к скамье, стопы плотно упираются в пол, гантели располагаются на одной горизонтальной линии;  руки находятся в положении, перпендикулярном полу."
+            },
+            "iconUrl": "ex_dumbbell_benchpress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower the dumbbells; ensure that the forearms during the movement are perpendicular to the floor",
+              "ru": "Шаг 2: Опустите гантели вниз;  следите за тем, чтобы предплечья на всей траектории оставались перпендикулярными к полу"
+            },
+            "iconUrl": "ex_dumbbell_benchpress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Squeeze the dumbbells",
+              "ru": "Шаг 3: выжмите гантели вверх"
+            },
+            "iconUrl": "ex_dumbbell_benchpress_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_dumbbell_incline_benchpress_icon.jpg",
+        "name": {
+          "en": "Dumbbell incline benchpress",
+          "ru": "Жим гантелей лежа на наклонной скамье"
+        },
+        "performance": 6,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "dumbbell_incline_benchpress",
+        "description": {
+          "en": "Main muslce: pecs muscles\n\nOther muscle: deltoid, triceps, elbow muslce\n\nMistakes in doing the exercise:\n-lifting your back of the head or glutes off the bench\n-changing foot position during the set",
+          "ru": "Целевые мышцы: большая грудная мышца\n\nМышцы, также учавствующие в движении: передний пучок дельтовидной мышцы, трехглавая мышца плеча, локтевая мышца\n\nОшибки в выполнении упражнения:\n-отрыв затылка и ягодиц от скамьи\n-изменение положения ступней во время подхода"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Back of the head, shoulder blades and glutes are pressed to the bench, feet are strongly pressed to the floor, dumbbells are on the same horizontal line; arms are in position perpendicular to the floor.",
+              "ru": "Шаг 1: Затылок, лопатки и ягодицы прижаты к скамье, стопы плотно упираются в пол, гантели располагаются на одной горизонтальной линии;  руки находятся в положении, перпендикулярном полу."
+            },
+            "iconUrl": "ex_dumbbell_incline_benchpress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower the dumbbells; ensure that the forearms during the movement are perpendicular to the floor",
+              "ru": "Шаг 2: Опустите гантели вниз;  следите за тем, чтобы предплечья на всей траектории оставались перпендикулярными к полу"
+            },
+            "iconUrl": "ex_dumbbell_incline_benchpress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Squeeze the dumbbells",
+              "ru": "Шаг 3: выжмите гантели вверх"
+            },
+            "iconUrl": "ex_dumbbell_incline_benchpress_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_benchpress2_icon.jpg",
+        "name": {
+          "en": "Smith machine benchpress",
+          "ru": "Жим штанги лёжа в тренажере Смита"
+        },
+        "performance": 8,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "benchpress2",
+        "description": {
+          "en": "Main muscle: pecs muscles\n\nOther muscle: deltoid, triceps, elbow muscle\n\nMistakes in doing the exercise:\n-lifting your back of the head or glutes off the bench\n-bouncing the bar\n-changing foot position during the set\n\nNotes:\n-the exercise can be done on an incline bench",
+          "ru": "Целевые мышцы: большая грудная мышца\n\nМышцы, также участвующие в упражнении: передний пучок дельтовидной мышцы, трехглавая мышца плеча, локтевая мышца\n\nОшибки в выполнении упражнения:\n-отрыв затылка и ягодиц от скамьи\n-«отбив» штанги от груди\n-изменение положения ступней во время подхода\n\nПримечания:\n-может выполняться на наклонной скамье"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Grasp the bar. Back of the head, shoulder blades and glutes are pressed to the bench, feet are strongly pressed to the floor. Take the bar frtom the racks",
+              "ru": "Шаг 1: Возьмитесь за гриф. Затылок, лопатки и ягодицы прижаты к скамье, стопы плотно упираются в пол. Снимите штангу со стоек"
+            },
+            "iconUrl": "ex_benchpress2_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower the bar on your chest so that forearms are in a position perpendicular to the floor",
+              "ru": "Шаг 2: Опустите штангу на грудь таким образом, чтобы предплечья находились в положении, перпендикулярном полу"
+            },
+            "iconUrl": "ex_benchpress2_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Squeeze the bar",
+              "ru": "Шаг 3: Выжмите штангу вверх"
+            },
+            "iconUrl": "ex_benchpress2_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_machinefly_icon.jpg",
+        "name": {
+          "en": "Machine fly",
+          "ru": "Сведение рук в тренажере (бабочка)"
+        },
+        "performance": 5,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "machinefly",
+        "description": {
+          "en": "Main muscle: pecs muscles",
+          "ru": "Целевые мышцы: большая грудная мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Sitting in the machine, graps the handles of the machine",
+              "ru": "Шаг 1: Сидя в тренажере, возьмитесь руками за рукоятки"
+            },
+            "iconUrl": "ex_machinefly_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Maximally bring your hands together",
+              "ru": "Шаг 2: Максимально сведите руки"
+            },
+            "iconUrl": "ex_machinefly_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_machinefly_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_crossover_icon.jpg",
+        "name": {
+          "en": "Cable crossover",
+          "ru": "Сведение рук в кроссовере"
+        },
+        "performance": 4,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "crossover",
+        "description": {
+          "en": "Main muscle: pecs muscles",
+          "ru": "Целевые мышцы: большая грудная мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Stand the legs shoulder-width apart, your torso should have a small forward bend from the waist; grasp the handles so that arms are slighlty bent at the elbows",
+              "ru": "Шаг 1: Поставьте ноги на ширину плеч, туловище немного наклоните вперед;  возьмитесь за рукоятки тренажера так, чтобы руки были слегка согнуты в локтях"
+            },
+            "iconUrl": "ex_crossover_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Extend your arms to the touch of each other",
+              "ru": "Шаг 2: Сведите руки перед собой до касания их друг с другом"
+            },
+            "iconUrl": "ex_crossover_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_crossover_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_declinepress_icon.jpg",
+        "name": {
+          "en": "Bench press machine",
+          "ru": "Жим в тренажере сидя"
+        },
+        "performance": 3,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "declinepress",
+        "description": {
+          "en": "Main muscle: pecs muscles",
+          "ru": "Целевые мышцы: большая грудная мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Sitting in the machine grasp the handles",
+              "ru": "Шаг 1: Сидя в тренажере возьмитесь руками за рукоятки"
+            },
+            "iconUrl": "ex_declinepress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Squeeze",
+              "ru": "Шаг 2: Сделайте жим"
+            },
+            "iconUrl": "ex_declinepress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_declinepress_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_dumbbellfly_icon.jpg",
+        "name": {
+          "en": "Dumbbell fly",
+          "ru": "Разводка с гантелями"
+        },
+        "performance": 2,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "dumbbellfly",
+        "description": {
+          "en": "Main muscle: pecs muscles\n\nNotes:\n-the exercise can be done on the incline bench",
+          "ru": "Целевые мышцы: большая грудная мышца\n\nПримечания:\n-может выполняться на наклонной скамье"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Back of the head, shoulder blades and glutes are pressed to the bench, feet are strongly pressed to the floor, dumbbells are on the same horizontal line",
+              "ru": "Шаг 1: Затылок, лопатки и ягодицы прижаты к скамье, стопы плотно упираются в пол, гантели располагаются на одной горизонтальной линии"
+            },
+            "iconUrl": "ex_dumbbellfly_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower your arms out, slightly bending them at the elbows",
+              "ru": "Шаг 2: Разведите руки в стороны, слегка сгибая их в локтях"
+            },
+            "iconUrl": "ex_dumbbellfly_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Raise your hands vertically up",
+              "ru": "Шаг 3: Поднимите руки вертикально вверх"
+            },
+            "iconUrl": "ex_dumbbellfly_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_pullover_icon.jpg",
+        "name": {
+          "en": "Dumbbell pull-over",
+          "ru": "Пулловер с гантелью"
+        },
+        "performance": 1,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "pullover",
+        "description": {
+          "en": "Main muscle: pecs, lats muscles",
+          "ru": "Целевые мышцы: большая грудная мышца, широчайшая мышца спины"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1",
+              "ru": "Шаг 1: Корпус располагается перпендикулярно скамье, угол в коленях 90\nградусов, гантель располагается на слегка согнутых в локтевых суставах руках"
+            },
+            "iconUrl": "ex_pullover_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2",
+              "ru": "Шаг 2: Медленно отведите руки назад до их параллели с полом"
+            },
+            "iconUrl": "ex_pullover_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_pullover_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      }
+    ],
+    "name": {
+      "en_male": "Chest",
+      "ru_male": "Грудь",
+      "en_female": "Chest",
+      "ru_female": "Грудь"
+    },
+    "serverId": "breast"
+  },
+  {
+    "exercises": [
+      {
+        "iconUrl": "ex_militarypress_icon.jpg",
+        "name": {
+          "en": "Military press",
+          "ru": "Жим штанги стоя"
+        },
+        "performance": 12,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "militarypress",
+        "description": {
+          "en": "Main muscle: shoulders(front part)\n\nOther muscle: shoulders(middle part), triceps, pec major muscle\n\nMistakes in doing the exercise:\n-moving the torso back while you are squeezing the bar\n-pushing off the feet while you are doing the exercise",
+          "ru": "Целевые мышцы: передний пучок дельтовидной мышцы\n\nМышцы, также учавствующие в движении: средний пучок дельтовидной мышцы, трехглавая мышца плеча, большая грудная мышца\n\nОшибки в выполнении упражнения:\n-отклонение корпуса назад во время выжимания штанги вверх\n-отталкивание ногами во время выполнения жима"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The bar is placed on the upper part of the chest and is held by hands, the elbows are slightly forward of the wrists, knees are slightly bent",
+              "ru": "Шаг 1: Штанга лежит на верхней части груди и удерживается руками, локти немного выведены вперед, ноги слегка согнуты в коленях"
+            },
+            "iconUrl": "ex_militarypress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Squeeze the bar",
+              "ru": "Шаг 2: выжмите штангу вверх"
+            },
+            "iconUrl": "ex_militarypress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: lower the barbell on the chest",
+              "ru": "Шаг 3: опустите штангу на грудь"
+            },
+            "iconUrl": "ex_militarypress_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_dumbbellstpress_icon.jpg",
+        "name": {
+          "en": "Dumbbell standing press",
+          "ru": "Жим гантелей стоя"
+        },
+        "performance": 11,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "dumbbellstpress",
+        "description": {
+          "en": "Main muscle: shoulders\n\nOther muscle: triceps, pec major muscle\n\nMistakes in doing the exercise:\n-moving the torso back while you are squeezing the bar\n-pushing off the feet while you are doing the exercise",
+          "ru": "Целевые мышцы: передний и средний пучки  дельтовидной мышцы\n\nМышцы, также участвующие в движении: трехглавая мышца плеча, большая грудная мышца\n\nОшибки в выполнении упражнения:\n-отклонение корпуса назад во время выжимания штанги вверх\n-отталкивание ногами во время выполнения жима"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The dumbbells are on the same horizontal line at shoulder level; forearms are perpendicular to the floor; there is a natural arch in lower back",
+              "ru": "Шаг 1: Гантели располагаются на одной горизонтальной лини на уровне плеч; предплечья строго перпендикулярны полу; в пояснице присутствует естественный прогиб"
+            },
+            "iconUrl": "ex_dumbbellstpress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Squeeze the dumbbells",
+              "ru": "Шаг 2: Выжмите гантели вверх"
+            },
+            "iconUrl": "ex_dumbbellstpress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: return to the initial position",
+              "ru": "Шаг 3: вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_dumbbellstpress_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_dumbbellsitpress_icon.jpg",
+        "name": {
+          "en": "Dumbbell shoulder press",
+          "ru": "Жим гантелей сидя"
+        },
+        "performance": 10,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "dumbbellsitpress",
+        "description": {
+          "en": "Main muscle: shoulders\n\nOther muscle: triceps, pec major muscle\n\nMistakes in doing the exercise:\n-arch in the lower back more than natural\n-changing foot position during the exercise\n\nNotes:\n-the exercise can be done on a bench with a back or without it",
+          "ru": "Целевые мышцы: передний и средний пучки  дельтовидной мышцы\n\nМышцы, также участвующие в движении: трехглавая мышца плеча, большая грудная мышца\n\nОшибки в выполнении упражнения:\n-прогиб в спине больше естественного\n-изменение положения стоп во время выполнения упражнения\n\nПримечания:\n-может выполняться как на скамье со спинкой так и без"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Legs are strongly pressed to the floor, dumbbells are on one horizontal line at shoulder level; forearms are perpendicular to the floor; there is a natural arch in the lower back",
+              "ru": "Шаг 1: Ноги плотно прижаты к полу, гантели располагаются на одной горизонтальной лини на уровне плеч; предплечья строго перпендикулярны полу; в пояснице присутствует естественный прогиб"
+            },
+            "iconUrl": "ex_dumbbellsitpress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Squeeze the dumbbells",
+              "ru": "Шаг 2: Выжмите гантели вверх"
+            },
+            "iconUrl": "ex_dumbbellsitpress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_dumbbellsitpress_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_sitmilitarypress_icon.jpg",
+        "name": {
+          "en": "Barbell shoulder press",
+          "ru": "Жим штанги сидя"
+        },
+        "performance": 9,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "sitmilitarypress",
+        "description": {
+          "en": "Main muscle: shoulders (front part)\n\nOther muscle: shoulders (middle part), triceps, pec major muscle\n\nMistakes in doing the exercise:\n-arch in the lower back more than natural\n-changing foot position during the exercise\n\nNotes:\n-the exercise can be done on a bench with a back or without it",
+          "ru": "Целевые мышцы: передний пучок дельтовидной мышцы\n\nМышцы, также участвующие в движении: средний пучок дельтовидной мышцы, трехглавая мышца плеча, большая грудная мышца\n\nОшибки в выполнении упражнения:\n-прогиб в спине больше естественного\n-изменение положения стоп во время выполнения упражнения\n\nПримечания:\n-может выполняться как на скамье со спинкой так и без"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The bar is placed on the upper part of the chest and is held by hands, the elbows are slightly forward of the wrists",
+              "ru": "Шаг 1: Штанга лежит на верхней части груди и удерживается руками, локти немного выведены вперед"
+            },
+            "iconUrl": "ex_sitmilitarypress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: squeeze the bar",
+              "ru": "Шаг 2: выжмите штангу вверх"
+            },
+            "iconUrl": "ex_sitmilitarypress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: lower the bar on your chest",
+              "ru": "Шаг 3: опустите штангу на грудь"
+            },
+            "iconUrl": "ex_sitmilitarypress_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_smittmilitarypress_icon.jpg",
+        "name": {
+          "en": "Smith machine shoulder press",
+          "ru": "Жим штанги сидя в тренажере Смита"
+        },
+        "performance": 8,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "smittmilitarypress",
+        "description": {
+          "en": "Main muscle: shoulders (front part)\n\nOther muscle: shoulders (middle part), triceps\n\nMistakes in doing the exercise:\n-arch in the lower back more than natural\n-changing foot position during the exercise",
+          "ru": "Целевые мышцы: передний пучок дельтовидной мышцы\n\nМышцы, также участвующие в движении: средний пучок дельтовидной мышцы, трехглавая мышца плеча\n\nОшибки в выполнении упражнения:\n-прогиб в спине больше естественного\n-изменение положения стоп во время выполнения упражнения"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The bar is placed on the upper part of the chest and is held by hands, the elbows are slightly forward of the wrists",
+              "ru": "Шаг 1: Штанга лежит на верхней части груди и удерживается руками, локти немного выведены вперед"
+            },
+            "iconUrl": "ex_smittmilitarypress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: squeeze the bar",
+              "ru": "Шаг 2: выжмите штангу вверх"
+            },
+            "iconUrl": "ex_smittmilitarypress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: lower the bar on your chest",
+              "ru": "Шаг 3: опустите штангу на грудь"
+            },
+            "iconUrl": "ex_smittmilitarypress_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_barbellup_icon.jpg",
+        "name": {
+          "en": "Barbell upright row",
+          "ru": "Тяга штанги к подбородку"
+        },
+        "performance": 7,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "barbellup",
+        "description": {
+          "en": "Main muscle: shoulders (front and middle parts)\n\nOther muscle: back part of shoulder, trapezius\n\nMistakes in doing the exercise:\n-moving the torso back during the exercise",
+          "ru": "Целевые мышцы: средний и передний пучки  дельтовидной мышцы\n\nМышцы, также участвующие в движении: задний пучок дельтовидной мышцы, трапециевидная мышца\n\nОшибки в выполнении упражнения:\n-отклонение корпуса назад во время выполнения упражнения"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Hands are holding the bar at a distance of 10-20 cm from each other, knees are slightly bent",
+              "ru": "Шаг 1: Руки удерживают гриф на расстоянии 10-20 см друг от друга, ноги немного согнуты в коленях"
+            },
+            "iconUrl": "ex_barbellup_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Keeping the bar as close as possible to the torso, raise the bar at the level of the chin, maximally raising the elbows",
+              "ru": "Шаг 2: Проводя гриф как можно ближе к корпусу, поднимите гриф на уровень подбородка, максимально поднимая локти вверх"
+            },
+            "iconUrl": "ex_barbellup_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_barbellup_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_lateralraise_icon.jpg",
+        "name": {
+          "en": "Lateral raise",
+          "ru": "Подъем гантелей через стороны"
+        },
+        "performance": 6,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "lateralraise",
+        "description": {
+          "en": "Main muscle: middle part of shoulder\n\nOther muscle: front and back parts of shoulder\n\nMistakes in doing the exercise:\n-dumbbells at the highest point of the movement are higher than level of the elbows\n-changing a torso position during the exercise",
+          "ru": "Целевые мышцы: средний пучок дельтовидной мышцы\n\nМышцы, также участвующие в движении: передний и задний пучки  дельтовидной мышцы\n\nОшибки в выполнении упражнения:\n-гантели в верхней точке движения находятся выше уровня локтей\n-изменение положения корпуса во время выполнения упражнения"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The torso is slightly leaned forward, arms are in front of the body and the elbows are slightly bent",
+              "ru": "Шаг 1: Корпус немного наклонен вперед, руки находятся перед корпусом и слегка согнуты в локтях"
+            },
+            "iconUrl": "ex_lateralraise_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lift the dumbbells to your side until about the chin level, keeping the elbows slightly bent",
+              "ru": "Шаг 2: Поднимите гантели через стороны примерно до уровня подбородка, сохраняя при этом угол в локтях"
+            },
+            "iconUrl": "ex_lateralraise_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_lateralraise_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_frontraise_icon.jpg",
+        "name": {
+          "en": "Front raise",
+          "ru": "Подъем гантелей перед  собой"
+        },
+        "performance": 5,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "frontraise",
+        "description": {
+          "en": "Main muscle: shoulders (front part)\n\nOther muscle: pec major muscle\n\nMistakes in doing the exercise:\n-changing a torso position during the exercise",
+          "ru": "Целевые мышцы: передний пучок дельтовидной мышцы\n\nМышцы, также участвующие в движении: большая грудная мышца\n\nОшибки в выполнении упражнения:\n-изменение положения корпуса во время выполнения упражнения"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Elbows are slightly bent and hands hold the dumbbells on the sides of the torso",
+              "ru": "Шаг 1: Руки  слегка согнуты в локтях и держат гантели по бокам от туловища"
+            },
+            "iconUrl": "ex_frontraise_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lift the dumbbell in front of yourself to the chin level",
+              "ru": "Шаг 2: Поднимите гантель перед собой до уровня подбородка"
+            },
+            "iconUrl": "ex_frontraise_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_frontraise_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_bentraise_icon.jpg",
+        "name": {
+          "en": "Bent over delt raise",
+          "ru": "Подъем гантелей через стороны в наклоне"
+        },
+        "performance": 4,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "bentraise",
+        "description": {
+          "en": "Main muscle: back part of shoulder\n\nOther muscle: trapezius, rhomboid muscle, lats",
+          "ru": "Целевые мышцы: задняя головка дельтовидной мышцы\n\nМышцы, также участвующие в движении: трапециевидная мышца, ромбовидная мышца, широчайшая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Lean forward, the knees are bent, the elbows are slightly bent, the angle between the shoulder and torso is 90 degrees",
+              "ru": "Шаг 1: Наклоните корпус вперед, ноги согнуты в коленях, руки слегка согнуты в локтях, угол между плечом и туловищем 90 градусов"
+            },
+            "iconUrl": "ex_bentraise_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lift the dumbbells to your side, keeping unchanged the angle between the shoulder and torso",
+              "ru": "Шаг 2: Поднимите гантели через стороны, сохраняя неизменным угол между плечом и туловищем"
+            },
+            "iconUrl": "ex_bentraise_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_bentraise_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_shoulderpress_icon.jpg",
+        "name": {
+          "en": "Machine shoulder press",
+          "ru": "Жим сидя в тренажере"
+        },
+        "performance": 3,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "shoulderpress",
+        "description": {
+          "en": "Main muscle: front and middle parts of shoulder\n\nOther muscle: triceps",
+          "ru": "Целевые мышцы: передний и средний пучки  дельтовидной мышцы\n\nМышцы, также участвующие в движении: трехглавая мышца плеча"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Grasp the handles so that the forearms are perpendicular to the floor",
+              "ru": "Шаг 1: Возьмитесь за рукоятки так, чтобы предплечья располагались перпендикулярно полу"
+            },
+            "iconUrl": "ex_shoulderpress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Press the weight up",
+              "ru": "Шаг 2: Выполните жим вверх"
+            },
+            "iconUrl": "ex_shoulderpress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_shoulderpress_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_machinereversefly_icon.jpg",
+        "name": {
+          "en": "Machine reverse fly",
+          "ru": "Махи назад в тренажере"
+        },
+        "performance": 2,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "machinereversefly",
+        "description": {
+          "en": "Main muscle: back part of shoulder\n\nOther muscle: trapezius, rhomboid muscle",
+          "ru": "Целевые мышцы: задняя головка дельтовидной мышцы\n\nМышцы, также участвующие в движении: трапециевидная мышца, ромбовидная мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Sit in a machine and press your belly/chest to the back of the machine. Grasp the handles so that arms are parallel to the floor",
+              "ru": "Шаг 1: Сядьте в тренажер, уперевшись  животом/грудью в спинку. Возьмитесь за рукоятки таким образом, чтобы руки были параллельны полу"
+            },
+            "iconUrl": "ex_machinereversefly_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Pull your hands back, bring your shoulder blades together",
+              "ru": "Шаг 2: Отведите руки назад, сведя при этом лопатки"
+            },
+            "iconUrl": "ex_machinereversefly_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_machinereversefly_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_shouldertren_icon.jpg",
+        "name": {
+          "en": "Machine lateral raise",
+          "ru": "Отведения плеч в тренажере"
+        },
+        "performance": 1,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "shouldertren",
+        "description": {
+          "en": "Main muscle: middle part of shoulder",
+          "ru": "Целевые мышцы: средний пучок дельтовидной мышцы"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1",
+              "ru": "Шаг 1"
+            },
+            "iconUrl": "ex_shouldertren_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2",
+              "ru": "Шаг 2"
+            },
+            "iconUrl": "ex_shouldertren_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3",
+              "ru": "Шаг 3"
+            },
+            "iconUrl": "ex_shouldertren_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      }
+    ],
+    "name": {
+      "en_male": "Shoulders",
+      "ru_male": "Плечи",
+      "en_female": "Shoulders",
+      "ru_female": "Плечи"
+    },
+    "serverId": "shoulders"
+  },
+  {
+    "exercises": [
+      {
+        "iconUrl": "ex_deadlift_icon.jpg",
+        "name": {
+          "en": "Deadlift",
+          "ru": "Становая тяга"
+        },
+        "performance": 10,
+        "pmCoefficientsStr": "1.0,1.065,1.13,1.147,1.164,1.181,1.198,1.232,1.256,1.27",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "deadlift",
+        "description": {
+          "en": "Main muscle: hamstring, glutes\n\nOther muscle:\nquadriceps, lower back, trapezius, forearm muscles\n\nMistakes in doing the exercise:\n-Deadlifting with a rounded back\n-non-synchronous straightening legs and torso",
+          "ru": "Целевые мышцы: двуглавая мышца бедра, большая ягодичная мышца (задняя поверхность бедра)\n\nМышцы, также участвующие в движении:\nчетырехглавая мышца бедра, мышцы-разгибатели позвоночника, трапециевидные мышцы, мышцы предплечья\n\nОшибки в выполнении упражнения:\n-тяга и опускание штанги со скругленной спиной\n-неодновременное разгибание ног и туловища"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Stand feet shoulder width apart under the bar, then grasp the bar on the width slightly wider than shoulders. The bar is as close as possible to the shins, arms are straight, back is tensed and arched in the thoracic spine, chin is slightly raisedtest",
+              "ru": "Шаг 1: Поставьте стопы под гриф на ширину плеч, затем сделайте захват грифа на ширине чуть шире плеч. Гриф находится максимально близко к голеням, руки прямые, спина напряжена и прогнута в грудном отделе, подбородок слегка приподнят"
+            },
+            "iconUrl": "ex_deadlift_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Stand up with the barbell, keeping the bar at the smallest possible distance to the body, simultaneously straightening the legs and torsotest",
+              "ru": "Шаг 2: Встаньте со штангой, держа гриф на минимально возможном расстоянии от тела, одновременно разгибая ноги и туловище"
+            },
+            "iconUrl": "ex_deadlift_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Accurately lower the bar, keeping arch in the back and keeping the barbell as close as possible to the hips and thighs",
+              "ru": "Шаг 3: Аккуратно опустите штангу, сохраняя прогиб в спине и держа штангу как можно ближе к бедрам и голеням"
+            },
+            "iconUrl": "ex_deadlift_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_pullups_icon.jpg",
+        "name": {
+          "en": "Pull ups",
+          "ru": "Подтягивания"
+        },
+        "performance": 9,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "pullups",
+        "description": {
+          "en": "Main muscle: lats and other middle back muscles, rhomboid muscle\n\nOther muscle: trapezius, biceps, shoulders, brachialis (upper arm), forearm muscles",
+          "ru": "Целевые мышцы: широчайшая мышца спины, большая и малая круглые мышцы, ромбовидная мышца\n\nМышцы, также участвующие в движении: трапециевидная мышца, двуглавая мышца плеча, плечевая мышца, плечелучевая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Hang on the crossbar, slightly bending the elbows",
+              "ru": "Шаг 1: Повистните на перекладине, слегка согнув руки в локтях"
+            },
+            "iconUrl": "ex_pullups_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Pull up so that chest is on the level with the crossbar",
+              "ru": "Шаг 2: Подтянитесь так, чтобы грудь оказалась на уровне перекладины"
+            },
+            "iconUrl": "ex_pullups_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_pullups_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_lifttbar_icon.jpg",
+        "name": {
+          "en": "T-bar row",
+          "ru": "Тяга Т-грифа к поясу"
+        },
+        "performance": 8,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "lifttbar",
+        "description": {
+          "en": "Main muscle: lats and other middle back muscles, rhomboid muscle\n\nOther muscle: trapezius, back part of shoulder, biceps, brachialis (upper arm), forearms muscles\n\nNotes:\n-the exercise can be done either with over overhand grip or with underhand grip\n-can be done without a support for the chest",
+          "ru": "Целевые мышцы: широчайшая мышца спины, большая и малая круглые мышцы, ромбовидная мышца\n\nМышцы, также участвующие в движении: трапециевидная мышца, задняя головка дельтовидной мышцы,  двуглавая мышца плеча, плечевая мышца, плечелучевая мышца\n\nПримечания:\n-может выполняться как прямым, так и обратным хватом\n-может выполняться без опоры для груди"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Grasp the handles of the bar. The torso is tilted at an angle of 45 degrees, knees are slightly bent",
+              "ru": "Шаг 1: Возьмите гриф за рукояти. Туловище наклонено на угол 45о, ноги немного согнуты в коленях"
+            },
+            "iconUrl": "ex_lifttbar_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Pull the weight to the touch or about touch with the torso",
+              "ru": "Шаг 2: Потяните гриф до его касания или почти до касания с корпусом"
+            },
+            "iconUrl": "ex_lifttbar_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_lifttbar_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_liftbar_icon.jpg",
+        "name": {
+          "en": "Barbell row",
+          "ru": "Тяга штанги к поясу"
+        },
+        "performance": 7,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "liftbar",
+        "description": {
+          "en": "Main muscle: lats and other middle back muscles, rhomboid muscle\n\nOther muscle: trapezius, back part of shoulder, biceps, brachialis (upper arm), forearm muscles\n\nMistakes in doing the exercise:\n-a torso angle differes a lot from 45 degrees\n-moving the torso towards the bar during the exercise\n\nNotes:\n-the exercise can be done either with over overhand grip or with underhand grip",
+          "ru": "Целевые мышцы: широчайшая мышца спины, большая и малая круглые мышцы, ромбовидная мышца\n\nМышцы, также участвующие в движении:\n трапециевидная мышца, задняя головка дельтовидной мышцы,  двуглавая мышца плеча, плечевая мышца, плечелучевая мышца\n\nОшибки при выполнении упражнения:\n-угол наклона туловища сильно отличающийся в большую или меньшую сторону от 45 градусов\n-движение корпусом по направлению к грифу во время тяги\n\nПримечания:\n-может выполняться как прямым, так и обратным хватом"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Grasp the handles of the bar. The torso is tilted at an angle of 45 degrees, knees are slightly bent",
+              "ru": "Шаг 1: Возьмите гриф за рукояти. Туловище наклонено на угол 45о, ноги немного согнуты в коленях"
+            },
+            "iconUrl": "ex_liftbar_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Pull the weight to the touch or about touch with the torso",
+              "ru": "Шаг 2: Потяните гриф до его касания или почти до касания с корпусом"
+            },
+            "iconUrl": "ex_liftbar_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_liftbar_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_hammerback_icon.jpg",
+        "name": {
+          "en": "Iso lateral wide pulldown",
+          "ru": "Хаммер для спины"
+        },
+        "performance": 6,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "hammerback",
+        "description": {
+          "en": "Main muscle: lats and other middle back muscles, rhomboid muscle\n\nOther muscle: back part of shoulder, biceps, brachialis (upper arm)",
+          "ru": "Целевые мышцы: широчайшая мышца спины, большая и малая круглые мышцы, ромбовидная мышца\n\nМышцы, также участвующие в движении: задняя головка дельтовидной мышцы, двуглавая мышца плеча, плечевая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Grasp the handles of the machine",
+              "ru": "Шаг 1: Возьмитесь за рукоятки тренажера"
+            },
+            "iconUrl": "ex_hammerback_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Pull the handles to yourself powerfully",
+              "ru": "Шаг 2: Мощным движением потяните рукоятки к себе"
+            },
+            "iconUrl": "ex_hammerback_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_hammerback_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_pulldown_icon.jpg",
+        "name": {
+          "en": "Wide grip pulldown",
+          "ru": "Тяга верхнего блока к груди"
+        },
+        "performance": 5,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "pulldown",
+        "description": {
+          "en": "Main muscle: lats and other middle back muscles, rhomboid muscle\n\nOther muscle: back part of shoulder, biceps, brachialis (upper arm), forearms muscles, pec minor muscle",
+          "ru": "Целевые мышцы: широчайшая мышца спины, большая и малая круглые мышцы, ромбовидная мышца\n\nМышцы, также участвующие в движении: задняя головка дельтовидной мышцы, двуглавая мышца плеча, плечевая мышца, плечелучевая мышца, малая грудная мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The torso is straight, hands are holding the handles, the angle in the knees is 90 degrees",
+              "ru": "Шаг 1: Корпус прямой, руки держат рукоять, угол в коленях 90 градусов"
+            },
+            "iconUrl": "ex_pulldown_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Pull the handle to the chest, slightly leaning the torso back",
+              "ru": "Шаг 2: Потяните рукоять к груди, немного отклонившись корпусом назад"
+            },
+            "iconUrl": "ex_pulldown_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_pulldown_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_pulldown1_icon.jpg",
+        "name": {
+          "en": "Close grip front pulldown",
+          "ru": "Тяга верхнего блока к груди узким хватом"
+        },
+        "performance": 4,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "pulldown1",
+        "description": {
+          "en": "Main muscle: lats and other middle back muscles, rhomboid muscle\n\nOther muscle: back part of shoulder, biceps, brachialis (upper arm), forearms muscles, pec minor muscle",
+          "ru": "Целевые мышцы: широчайшая мышца спины, большая и малая круглые мышцы, ромбовидная мышца\n\nМышцы, также участвующие в движении: задняя головка дельтовидной мышцы, двуглавая мышца плеча, плечевая мышца, плечелучевая мышца, малая грудная мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The torso is straight, hands are holding the handles, the angle in the knees is 90 degrees",
+              "ru": "Шаг 1: Корпус прямой, руки держат рукоять, угол в коленях 90 градусов"
+            },
+            "iconUrl": "ex_pulldown1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Pull the handle behind the head, keeping torso position perpendicular to the floor",
+              "ru": "Шаг 2: Потяните рукоять за голову, сохраняя положение корпуса перпендикулярным к полу"
+            },
+            "iconUrl": "ex_pulldown1_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_pulldown1_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_pulldown2_icon.jpg",
+        "name": {
+          "en": "Wide grip pulldown behind the neck",
+          "ru": "Тяга верхнего блока за голову"
+        },
+        "performance": 3,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "pulldown2",
+        "description": {
+          "en": "Main muscle: lats and other middle back muscles, rhomboid muscle\n\nOther muscle: back part of shoulder, biceps, brachialis (upper arm), forearms muscles, pec minor muscle",
+          "ru": "Целевые мышцы: широчайшая мышца спины, большая и малая круглые мышцы, ромбовидная мышца\n\nМышцы, также участвующие в движении: задняя головка дельтовидной мышцы, двуглавая мышца плеча, плечевая мышца, плечелучевая мышца, малая грудная мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The torso is straight, hands are holding the handles, the angle in the knees is 90 degrees",
+              "ru": "Шаг 1: Корпус прямой, руки держат рукоять, угол в коленях 90 градусов"
+            },
+            "iconUrl": "ex_pulldown2_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Pull the handle behind the head, keeping torso position perpendicular to the floor",
+              "ru": "Шаг 2: Потяните рукоять за голову, сохраняя положение корпуса перпендикулярным к полу"
+            },
+            "iconUrl": "ex_pulldown2_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_pulldown2_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_liftvbar_icon.jpg",
+        "name": {
+          "en": "Cable seated row",
+          "ru": "Тяга нижнего блока"
+        },
+        "performance": 2,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "liftvbar",
+        "description": {
+          "en": "Main muscle: lats and other middle back muscles, rhomboid muscle\n\nOther muscle: back part of shoulder, biceps, brachialis (upper arm), forearms muscles",
+          "ru": "Целевые мышцы: широчайшая мышца спины, большая и малая круглые мышцы, ромбовидная мышца\n\nМышцы, так же участвующие в движении: задняя головка дельтовидной мышцы, двуглавая мышца плеча, плечевая мышца, плечелучевая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Place the feet on the platform, bend your knees and grasp the handle. The torso is perpendicular to the floor",
+              "ru": "Шаг 1: Поставьте ступни на упоры, согните ноги в коленях и возьмите рукоять тренажера. Корпус перпендикулярен полу"
+            },
+            "iconUrl": "ex_liftvbar_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Pull the handle to your belly, maximally pulling your shoulder blades together",
+              "ru": "Шаг 2: Потяните рукоять к животу, максимально сводя при этом лопатки"
+            },
+            "iconUrl": "ex_liftvbar_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_liftvbar_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_dumblift_icon.jpg",
+        "name": {
+          "en": "Dumbbell row",
+          "ru": "Тяга гантели к поясу"
+        },
+        "performance": 1,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "dumblift",
+        "description": {
+          "en": "Main muscle: lats and other middle back muscles, rhomboid muscle\n\nOther muscle: trapezius, back part of shoulder, biceps, brachialis (upper arm), forearms muscles",
+          "ru": "Целевые мышцы: широчайшая мышца спины, большая и малая круглые мышцы, ромбовидная мышца\n\nМышцы, так же участвующие в движении: трапециевидная мышца, задняя головка дельтовидной мышцы,  двуглавая мышца плеча, плечевая мышца, плечелучевая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Lean on the bench your hand and knee. The torso is parallel to the floor, the back is tensed",
+              "ru": "Шаг 1: Рукой и коленом одной из сторон обопритесь о скамью. Корпус параллелен полу, спина напряжена"
+            },
+            "iconUrl": "ex_dumblift_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Pull the dumbbell as high as you can, pulling your shoulder blades together in the final phase of the movement",
+              "ru": "Шаг 2: Потяните гантель как можно выше вверх, сведя лопатки в заключительной фазе движения"
+            },
+            "iconUrl": "ex_dumblift_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_dumblift_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      }
+    ],
+    "name": {
+      "en_male": "Back",
+      "ru_male": "Спина",
+      "en_female": "Back",
+      "ru_female": "Спина"
+    },
+    "serverId": "back"
+  },
+  {
+    "exercises": [
+      {
+        "iconUrl": "ex_barbellcurl_icon.jpg",
+        "name": {
+          "en": "Barbell curl",
+          "ru": "Подъем штанги на бицепс стоя"
+        },
+        "performance": 11,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "barbellcurl",
+        "description": {
+          "en": "Main muscle: biceps\n\nOther muscle: brachialis (upper arm), forearms muscles\n\nMistakes in doing the exercise:\n-swaying of the body while lifting the bar\n-changing the position of the elbows relatively to the torso while lifting the bar",
+          "ru": "Целевые мышцы: двуглавая мышца плеча\n\nМышцы, также участвующие в движении: плечевая мышца, плечелучевая мышца\n\nОшибки при выполнении упражнения:\n-раскачивание корпуса во время подъема штанги\n-изменение положения локтей относительно туловища во время подъема штанги"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The torso is straight, feet are shoulder width apart, knees are slightly bent, the bar is being held by straight arms",
+              "ru": "Шаг 1: Корпус прямой, стопы располагаются на ширине плеч, ноги слегка согнуты в коленях, гриф удерживается на прямых руках"
+            },
+            "iconUrl": "ex_barbellcurl_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your arms at the elbow joints",
+              "ru": "Шаг 2: Согните руки в локтевых суставах"
+            },
+            "iconUrl": "ex_barbellcurl_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_barbellcurl_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_dumbbellcurl_icon.jpg",
+        "name": {
+          "en": "Dumbbell curl",
+          "ru": "Подъем гантелей на бицепс стоя"
+        },
+        "performance": 10,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "dumbbellcurl",
+        "description": {
+          "en": "Main muscle: biceps\n\nOther muscle: brachialis (upper arm), forearms muscles\n\nMistakes in doing the exercise:\n-swaying of the body while lifting the dumbbells\n-changing the position of the elbows relatively to the torso while lifting the dumbbells",
+          "ru": "Целевые мышцы: двуглавая мышца плеча\n\nМышцы, также участвующие в движении: плечевая мышца, плечелучевая мышца\n\nОшибки при выполнении упражнения:\n-раскачивание корпуса во время подъема гантелей\n-изменение положения локтей относительно туловища во время подъема гантелей"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The torso is straight, feet are shoulder width apart, knees are slightly bent, the dumbbells are being held by straight arms on the sides of the torso",
+              "ru": "Шаг 1: Корпус прямой, стопы располагаются на ширине плеч, ноги слегка согнуты в коленях, гантели удерживается на прямых руках по бокам от туловища"
+            },
+            "iconUrl": "ex_dumbbellcurl_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your arms at the elbow joints",
+              "ru": "Шаг 2: Согните руки в локтевых суставах, развернув кисти внутрь"
+            },
+            "iconUrl": "ex_dumbbellcurl_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_dumbbellcurl_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_dumbbellcurl1_icon.jpg",
+        "name": {
+          "en": "Dumbbell seated curl",
+          "ru": "Подъем гантелей на бицепс сидя"
+        },
+        "performance": 9,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "dumbbellcurl1",
+        "description": {
+          "en": "Main muscle: biceps\n\nOther muscle: brachialis (upper arm), forearms muscles\n\nMistakes in doing the exercise:\n-changing the position of the elbows relatively to the torso while lifting the dumbbells",
+          "ru": "Целевые мышцы: двуглавая мышца плеча\n\nМышцы, также участвующие в движении: плечевая мышца, плечелучевая мышца\n\nОшибки при выполнении упражнения:\n-изменение положения локтей относительно туловища во время подъема гантелей"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The torso is straight, legs are bent at the knees at an angle of 90 degrees, the dumbbells are being held by straight arms",
+              "ru": "Шаг 1: Корпус прямой, ноги согнуты в коленях на угол 90 градусов, гантели удерживается на прямых руках"
+            },
+            "iconUrl": "ex_dumbbellcurl1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your arms at the elbow joints",
+              "ru": "Шаг 2: Согните руки в локтевых суставах, развернув кисти внутрь"
+            },
+            "iconUrl": "ex_dumbbellcurl1_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_dumbbellcurl1_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_dumbbellcurlincline_icon.jpg",
+        "name": {
+          "en": "Dumbbell seated incline curl",
+          "ru": "Подъем гантелей на бицепс сидя на наклонной скамье"
+        },
+        "performance": 8,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "dumbbellcurlincline",
+        "description": {
+          "en": "Main muscle: biceps\n\nOther muscle: brachialis (upper arm), forearms muscles\n\nMistakes in doing the exercise:\n-changing the position of the elbows relatively to the torso while lifting the dumbbells",
+          "ru": "Целевые мышцы: двуглавая мышца плеча\n\nМышцы, также участвующие в движении: плечевая мышца, плечелучевая мышца\n\nОшибки при выполнении упражнения:\n-изменение положения локтей относительно туловища во время подъема гантелей"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The back is pressed to the bench, arms are straight and hold the dumbbells",
+              "ru": "Шаг 1: Спина прижата к лавке, руки полностью выпрямлены и удерживают гантели"
+            },
+            "iconUrl": "ex_dumbbellcurlincline_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your arms at the elbow joints",
+              "ru": "Шаг 2: Согните руки в локтевых суставах, развернув кисти внутрь"
+            },
+            "iconUrl": "ex_dumbbellcurlincline_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_dumbbellcurlincline_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_hammercurl_icon.jpg",
+        "name": {
+          "en": "Dumbbell hammer curl",
+          "ru": "Подъем гантелей на бицепс стоя (молотки)"
+        },
+        "performance": 7,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "hammercurl",
+        "description": {
+          "en": "Main muscle: biceps, forearms muscles\n\nOther muscle: brachialis (upper arm)\n\nMistakes in doing the exercise:\n-swaying of the body while lifting the dumbbells\n-changing the position of the elbows relatively to the torso while lifting the dumbbells",
+          "ru": "Целевые мышцы: плечелучевая мышца, двуглавая мышца плеча\n\nМышцы, также участвующие в движении: плечевая мышца\n\nОшибки при выполнении упражнения:\n-раскачивание корпуса во время подъема гантелей\n-изменение положения локтей относительно туловища во время подъема гантелей"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The torso is straight, feet are shoulder width apart, knees are slightly bent, the dumbbells are being held by straight arms on the sides of the torso",
+              "ru": "Шаг 1: Корпус прямой, стопы располагаются на ширине плеч, ноги слегка согнуты в коленях, гантели удерживается на прямых руках по бокам от туловища"
+            },
+            "iconUrl": "ex_hammercurl_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your arms at the elbow joints",
+              "ru": "Шаг 2: Согните руки в локтевых суставах"
+            },
+            "iconUrl": "ex_hammercurl_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_hammercurl_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_barbellcurlreturn_icon.jpg",
+        "name": {
+          "en": "Reverse barbell curl",
+          "ru": "Подъем штанги на бицепс обратным хватом"
+        },
+        "performance": 6,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "barbellcurlreturn",
+        "description": {
+          "en": "Main muscle: forearms muscles, wrist extensors\n\nOther muscle: brachialis (upper arm), biceps\n\nMistakes in doing the exercise:\n-swaying of the body while lifting the barbell\n-changing the position of the elbows relatively to the torso while lifting the bar",
+          "ru": "Целевые мышцы: плечелучевая мышца, мышцы - разгибатели запястья\n\nМышцы, также участвующие в движении: плечевая мышца, двуглавая мышца плеча\n\nОшибки при выполнении упражнения:\n-раскачивание корпуса во время подъема штанги\n-изменение положения локтей относительно туловища во время подъема штанги"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The torso is straight, feet are shoulder width apart, knees are slightly bent, the bar is being held by straight arms with underhand grip",
+              "ru": "Шаг 1: Корпус прямой, стопы располагаются на ширине плеч, ноги слегка согнуты в коленях, гриф удерживается на прямых руках обратным хватом"
+            },
+            "iconUrl": "ex_barbellcurlreturn_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your arms at the elbow joints",
+              "ru": "Шаг 2: Согните руки в локтевых суставах"
+            },
+            "iconUrl": "ex_barbellcurlreturn_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_barbellcurlreturn_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_barbellskott_icon.jpg",
+        "name": {
+          "en": "Barbell preacher curl",
+          "ru": "Сгибания рук со штангой на скамье Скотта"
+        },
+        "performance": 5,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "barbellskott",
+        "description": {
+          "en": "Main muscle: biceps\n\nOther muscle: brachialis (upper arm), forearm muscles\n\nMistakes in doing the exercise:\n-changing the position of the elbows during the exercise",
+          "ru": "Целевые мышцы: двуглавая мышца плеча\n\nМышцы, также участвующие в движении: плечевая мышца, плечелучевая мышца\n\nОшибки при выполнении упражнения:\n-изменение положения локтей во время выполнения упражнения"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The chest is pressed to the prop of the bench, arms are positioned against the preacher bench pad, feet are pressed to the floor",
+              "ru": "Шаг 1: Грудь прижата к опоре тренажера, руки полностью лежат  на доске и удерживают гриф, стопы упираются в пол"
+            },
+            "iconUrl": "ex_barbellskott_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your arms at the elbows",
+              "ru": "Шаг 2: Согните руки в локтях"
+            },
+            "iconUrl": "ex_barbellskott_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Slowly return to the initial position",
+              "ru": "Шаг 3: Медленно вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_barbellskott_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_machineskott_icon.jpg",
+        "name": {
+          "en": "Biceps curl machine",
+          "ru": "Сгибания рук в тренажере Скотта"
+        },
+        "performance": 4,
+        "weightForFemale": true,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "serverId": "machineskott",
+        "description": {
+          "en": "Main muscle: biceps\n\nOther muscle: brachialis (upper arm), forearm muscles",
+          "ru": "Целевые мышцы: двуглавая мышца плеча\n\nМышцы, также участвующие в движении: плечевая мышца, плечелучевая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The chest is pressed to the prop of the bench, arms hold the handle, feet are pressed to the floor",
+              "ru": "Шаг 1: Грудь прижата к опоре тренажера, руки удерживают рукоять, стопы упираются в пол"
+            },
+            "iconUrl": "ex_machineskott_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your arms at the elbows",
+              "ru": "Шаг 2: Согните руки в локтях"
+            },
+            "iconUrl": "ex_machineskott_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Slowly return to the initial position",
+              "ru": "Шаг 3: Медленно вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_machineskott_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_dumbbellconcentration_icon.jpg",
+        "name": {
+          "en": "Dumbbell concentration curl",
+          "ru": "Концентрированные сгибания рук с гантелями"
+        },
+        "performance": 3,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "dumbbellconcentration",
+        "description": {
+          "en": "Main muscle: biceps\n\nOther muscle: brachialis (upper arm), forearms muscles",
+          "ru": "Целевые мышцы: двуглавая мышца плеча\n\nМышцы, также участвующие в движении: плечевая мышца, плечелучевая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Legs apart and are bent at the knees, the elbow is pressed to the inner part of the thigh of the same leg",
+              "ru": "Шаг 1: Ноги разведены в стороны и согнуты в коленях, локоть прижат к внутренней стороне бедра одноименной ноги"
+            },
+            "iconUrl": "ex_dumbbellconcentration_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend the arm at the elbow, not changing its position",
+              "ru": "Шаг 2: Согните руку в локте, не меняя его положение"
+            },
+            "iconUrl": "ex_dumbbellconcentration_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Slowly return to the initial position",
+              "ru": "Шаг 3: Медленно вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_dumbbellconcentration_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_blockbiceps1_icon.jpg",
+        "name": {
+          "en": "Cable biceps curl",
+          "ru": "Сгибания рук в блоке"
+        },
+        "performance": 2,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "blockbiceps1",
+        "description": {
+          "en": "Main muscle: biceps",
+          "ru": "Целевые мышцы: двуглавая мышца плеча"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1",
+              "ru": "Шаг 1: Руки удерживают рукоять, корпус расположен вертикально или с легким наклоном вперед"
+            },
+            "iconUrl": "ex_blockbiceps1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your arms at the elbow joints",
+              "ru": "Шаг 2: Согните руки в локтевых суставах"
+            },
+            "iconUrl": "ex_blockbiceps1_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_blockbiceps1_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_blockbiceps_icon.jpg",
+        "name": {
+          "en": "Cable crossover biceps curl",
+          "ru": "Сгибания рук в кроссовере"
+        },
+        "performance": 1,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "blockbiceps",
+        "description": {
+          "en": "Main muscle: biceps",
+          "ru": "Целевые мышцы: двуглавая мышца плеча"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1",
+              "ru": "Шаг 1: Руки прямые, корпус располагается вертикально"
+            },
+            "iconUrl": "ex_blockbiceps_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your arms at the elbow joints",
+              "ru": "Шаг 2: Согните руки в локтевых суставах"
+            },
+            "iconUrl": "ex_blockbiceps_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_blockbiceps_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      }
+    ],
+    "name": {
+      "en_male": "Biceps",
+      "ru_male": "Бицепс",
+      "en_female": "Biceps",
+      "ru_female": "Бицепс"
+    },
+    "serverId": "biceps"
+  },
+  {
+    "exercises": [
+      {
+        "iconUrl": "ex_barbellclosepress_icon.jpg",
+        "name": {
+          "en": "Barbell close grip bench press",
+          "ru": "Жим штанги лежа узким хватом"
+        },
+        "performance": 10,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "barbellclosepress",
+        "description": {
+          "en": "Main muscle: triceps\n\nOther muscle: pec major muscle, front part of shoulder, elbow muscles\n\nMistakes in doing the exercise:\n-lifting your back of the head or glutes off the bench\n-bouncing the bar\n-changing foot position during the set",
+          "ru": "Целевые мышцы: трехглавая мышца плеча\n\nМышцы, также участвующие в движении: большая грудная мышца, передний пучок дельтовидной мышцы, локтевая мышца\n\nОшибки в выполнении упражнения:\n-отрыв затылка и ягодиц от скамьи\n-«отбив» штанги от груди\n-изменение положения ступней во время подхода"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Lie on the bench so that eyes are appeared exactly under the bar, which is lying on the racks, and grasp the barbell so that the distance between the wrists is 20-30 cm. Back of the head, shoulder blades and glutes are pressed to the bench, feet are strongly pressed to the floor. Take the bar from the racks",
+              "ru": "Шаг 1: Лягте на скамью таким образом, чтобы глаза находились точно под грифом, лежащим на стойках и возьмитесь за гриф так, чтобы между запястьями было 20-30 см. Затылок, лопатки и ягодицы прижаты к скамье, стопы плотно упираются в пол. Снимите штангу со стоек"
+            },
+            "iconUrl": "ex_barbellclosepress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower the bar on your chest so that the bar and elbows are on one vertical line",
+              "ru": "Шаг 2: Опустите штангу на грудь так, чтобы гриф и локти всегда находились на одной вертикальной линии"
+            },
+            "iconUrl": "ex_barbellclosepress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Squeeze the bar",
+              "ru": "Шаг 3: Выжмите штангу вверх"
+            },
+            "iconUrl": "ex_barbellclosepress_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_bruski_icon.jpg",
+        "name": {
+          "en": "Chest dip",
+          "ru": "Отжимания на брусьях"
+        },
+        "performance": 9,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": true,
+        "serverId": "bruski",
+        "description": {
+          "en": "Main muscle: triceps, pec major muscle\n\nOther muscle: front part of shoulder, elbow muscles",
+          "ru": "Целевые мышцы: трехглавая мышца плеча, большая грудная мышца\n\nМышцы, также участвующие в движении: передний пучок дельтовидной мышцы, локтевая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The hands lean on the handles, the torso is perpendicular to the floor, knees are slightly bent",
+              "ru": "Шаг 1: Руки опираются на рукоятки, корпус перпендикулярен полу, ноги в коленях слегка согнуты"
+            },
+            "iconUrl": "ex_bruski_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower yourself, bending the elbows to an angle of 90 degrees or a little deeper",
+              "ru": "Шаг 2: Опуститесь вниз, согнув руки в локтях до угла 90о или чуть ниже"
+            },
+            "iconUrl": "ex_bruski_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Squeeze yourself up",
+              "ru": "Шаг 3: Отожмитесь вверх"
+            },
+            "iconUrl": "ex_bruski_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_frenchpress_icon.jpg",
+        "name": {
+          "en": "French press",
+          "ru": "Французский жим со штангой лежа"
+        },
+        "performance": 8,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "frenchpress",
+        "description": {
+          "en": "Main muscle: triceps\n\nOther muscle: elbow muscles",
+          "ru": "Целевые мышцы: трехглавая мышца плеча\n\nМышцы, также участвующие в движении: локтевая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Grasp the bar a little bit narrower the shoulder width, the arms are straight, the feet are pressed to the floor",
+              "ru": "Шаг 1: Возьмитесь за гриф хватом чуть уже ширины плеч, руки выпрямлены, стопы упираются в пол"
+            },
+            "iconUrl": "ex_frenchpress_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower the bar to the forehead, bending the elbows and slightly pulling them to the side",
+              "ru": "Шаг 2: Опустите гриф ко лбу, сгибая руки в локтях и слегка разводя локти в стороны"
+            },
+            "iconUrl": "ex_frenchpress_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_frenchpress_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_frenchpress1_icon.jpg",
+        "name": {
+          "en": "Standing french press",
+          "ru": "Французский жим со штангой стоя"
+        },
+        "performance": 7,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": true,
+        "serverId": "frenchpress1",
+        "description": {
+          "en": "Main muscle: triceps\n\nOther muscle: elbow muscles",
+          "ru": "Целевые мышцы: трехглавая мышца плеча\n\nМышцы, также участвующие в движении: локтевая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The hands hold the bar above the head",
+              "ru": "Шаг 1: Руки удерживают гриф над головой"
+            },
+            "iconUrl": "ex_frenchpress1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your elbows, lowering the bar behind the head",
+              "ru": "Шаг 2: Согните руки в локтях, опуская штангу за голову"
+            },
+            "iconUrl": "ex_frenchpress1_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_frenchpress1_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_stdumbbelltriceps_icon.jpg",
+        "name": {
+          "en": "Dumbbell standing triceps extension",
+          "ru": "Разгибания рук с гантелью стоя"
+        },
+        "performance": 6,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "stdumbbelltriceps",
+        "description": {
+          "en": "Main muscle: triceps\n\nOther muscle: elbow muscles",
+          "ru": "Целевые мышцы: трехглавая мышца плеча\n\nМышцы, также участвующие в движении: локтевая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: A hand hold the dumbbell above the head",
+              "ru": "Шаг 1: Рука удерживает гантель над головой"
+            },
+            "iconUrl": "ex_stdumbbelltriceps_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your elbow, lowering the dumbbell behind the head",
+              "ru": "Шаг 2: Согните руку в локте, опустив гантель за голову"
+            },
+            "iconUrl": "ex_stdumbbelltriceps_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_stdumbbelltriceps_step_2.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_pushdowntriceps_icon.jpg",
+        "name": {
+          "en": "Triceps pushdown",
+          "ru": "Разгибания рук на блоке"
+        },
+        "performance": 5,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "pushdowntriceps",
+        "description": {
+          "en": "Main muscle: triceps\n\nOther muscle: elbow muscles",
+          "ru": "Целевые мышцы: трехглавая мышца плеча\n\nМышцы, также участвующие в движении: локтевая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The hands hold the handle, the torso is slightly leaned forward, the knees are slightly bent",
+              "ru": "Шаг 1: Руки удерживают рукоять, корпус немного наклонен вперед, ноги слегка согнуты в коленях"
+            },
+            "iconUrl": "ex_pushdowntriceps_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Straighten the elbows, keeping an elbow position unchanged",
+              "ru": "Шаг 2: Разогните руки в локтях, не меняя при этом их местоположения"
+            },
+            "iconUrl": "ex_pushdowntriceps_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_pushdowntriceps_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_frenchblock_icon.jpg",
+        "name": {
+          "en": "Cable rope overhead extension",
+          "ru": "Французский жим на блоке"
+        },
+        "performance": 4,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "frenchblock",
+        "description": {
+          "en": "Main muscle: triceps\n\nOther muscle: elbow muscles",
+          "ru": "Целевые мышцы: трехглавая мышца плеча\n\nМышцы, также участвующие в движении: локтевая мышца"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The hands hold the handle, the torso is slightly leaned forward",
+              "ru": "Шаг 1: Руки удерживают рукояти тренажера, корпус слегка наклонен вперед"
+            },
+            "iconUrl": "ex_frenchblock_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Straighten the elbows",
+              "ru": "Шаг 2: Разогните руки в локтях"
+            },
+            "iconUrl": "ex_frenchblock_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_frenchblock_step_2.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_trentriceps_icon.jpg",
+        "name": {
+          "en": "Machine Triceps Extension",
+          "ru": "Разгибания рук в тренажере"
+        },
+        "performance": 3,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "trentriceps",
+        "description": {
+          "en": "Main muscle: triceps",
+          "ru": "Целевые мышцы: трехглавая мышца плеча"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1",
+              "ru": "Шаг 1"
+            },
+            "iconUrl": "ex_trentriceps_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2",
+              "ru": "Шаг 2"
+            },
+            "iconUrl": "ex_trentriceps_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3",
+              "ru": "Шаг 3"
+            },
+            "iconUrl": "ex_trentriceps_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_benchdip_icon.jpg",
+        "name": {
+          "en": "Bench dip",
+          "ru": "Отжимания от лавки"
+        },
+        "performance": 2,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "benchdip",
+        "description": {
+          "en": "Main muscle: triceps\n\nOther muscle: elbow muscles, pec major muscle\n\nMistakes in doing the exercise:\n-glutes touching the floor",
+          "ru": "Целевые мышцы: трехглавая мышца плеча\n\nМышцы, также участвующие в движении: локтевая мышца, большая грудная мышца\n\nОшибки в выполнении упражнения:\n-касание ягодицами пола"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The hands lean on the bench, knees are slightly bent, additional weight (a barbell disc or a dumbbell) lies on the thighs",
+              "ru": "Шаг 1: Руки упираются о лавку, ноги слегка согнуты в коленях, дополнительный вес (блин или гантель) лежит на бедрах"
+            },
+            "iconUrl": "ex_benchdip_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower yourself, bending the elbows",
+              "ru": "Шаг 2: Опуститесь вниз, согнув руки в локтях"
+            },
+            "iconUrl": "ex_benchdip_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_benchdip_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_dumbbellkickback_icon.jpg",
+        "name": {
+          "en": "Dumbbell triceps kickback",
+          "ru": "Разгибания с гантелью в наклоне"
+        },
+        "performance": 1,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": true,
+        "weightForFemale": false,
+        "serverId": "dumbbellkickback",
+        "description": {
+          "en": "Main muscle: triceps\n\nOther muscle: elbows muscles, back part of shoulder\n\nMistakes in doing the exercise:\n-changing shoulder position while unbending",
+          "ru": "Целевые мышцы: трехглавая мышца плеча\n\nМышцы, также участвующие в движении: локтевая мышца, задний пучок дельтовидной мышцы\n\nОшибки в выполнении упражнения:\n-изменение положения плеча во время разгибания"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The torso is parallel to the floor, a knee and a hand lean on the bench, the shoulder of the other hand is parallel to the floor or a little bit higher",
+              "ru": "Шаг 1: Корпус параллелен полу, колено и рука опираются о скамью, плечо второй руки параллельно полу или чуть выше"
+            },
+            "iconUrl": "ex_dumbbellkickback_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Straighten the elbow",
+              "ru": "Шаг 2: Разогните руку в локте"
+            },
+            "iconUrl": "ex_dumbbellkickback_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_dumbbellkickback_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      }
+    ],
+    "name": {
+      "en_male": "Triceps",
+      "ru_male": "Трицепс",
+      "en_female": "Triceps",
+      "ru_female": "Трицепс"
+    },
+    "serverId": "triceps"
+  },
+  {
+    "exercises": [
+      {
+        "iconUrl": "ex_press1_icon.jpg",
+        "name": {
+          "en": "Decline crunch",
+          "ru": "Подъемы корпуса на наклонной скамье"
+        },
+        "performance": 8,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "press1",
+        "description": {
+          "en": "Main muscle: abdominals\n\nOther muscle: hip flexors",
+          "ru": "Целевые мышцы: прямая мышца живота, косые мышцы живота\n\nМышцы, также участвующие в движении: мышцы-сгибатели бедра"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The legs are fixed under the pads of the bench, the arms are behind the head or crossed on the chest, the back is slouched",
+              "ru": "Шаг 1: Ноги зафиксированы под валиками под валиками скамьи, руки находятся за головой либо скрещены на груди, спина ссутулена"
+            },
+            "iconUrl": "ex_press1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lower the torso to the level, parallel to the floor, or a little bit deeper, keeping the back slouched",
+              "ru": "Шаг 2: Опустите туловище до уровня параллели с полом или чуть ниже, сохраняя спину скругленной"
+            },
+            "iconUrl": "ex_press1_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Lifting the torso, return to the initial position",
+              "ru": "Шаг 3: Выполнив подъем туловища, вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_press1_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_press2_icon.jpg",
+        "name": {
+          "en": "Sit up",
+          "ru": "Подъемы корпуса лежа на полу"
+        },
+        "performance": 7,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "press2",
+        "description": {
+          "en": "Main muscle: abdominals\n\nOther muscle: hip flexors",
+          "ru": "Целевые мышцы: прямая мышца живота, косые мышцы живота\n\nМышцы, также участвующие в движении: мышцы-сгибатели бедра"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Knees are bent, arms are behind the head or crossed on the chest, the back is slouched",
+              "ru": "Шаг 1: Ноги согнуты в коленях, руки находятся за головой либо скрещены на груди, спина ссутулена"
+            },
+            "iconUrl": "ex_press2_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Maximally lower the torso , but not touching the floor, keeping the back slouched",
+              "ru": "Шаг 2: Опустите туловище как можно ниже, но не касаясь пола, сохраняя спину скругленной"
+            },
+            "iconUrl": "ex_press2_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Lifting the torso, return to the initial position",
+              "ru": "Шаг 3: Выполнив подъем туловища, вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_press2_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_press3_icon.jpg",
+        "name": {
+          "en": "Crunches",
+          "ru": "Скручивания на полу"
+        },
+        "performance": 6,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "press3",
+        "description": {
+          "en": "Main muscle: abdominals",
+          "ru": "Целевые мышцы: прямая мышца живота, косые мышцы живота"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Knees are bent, the feet are raised or stand on the floor, the arms are behind the head",
+              "ru": "Шаг 1: Ноги согнуты в коленях, стопы стоят на полу либо подняты, руки находятся за головой"
+            },
+            "iconUrl": "ex_press3_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Complete the crunch, slightly raising the shoulders from the floor",
+              "ru": "Шаг 2: Выполните скручивание корпуса, слегка приподняв плечи от пола"
+            },
+            "iconUrl": "ex_press3_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_press3_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_press4_icon.jpg",
+        "name": {
+          "en": "Ball crunches",
+          "ru": "Скручивания на фитболе"
+        },
+        "performance": 5,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "press4",
+        "description": {
+          "en": "Main muscle: abdominals",
+          "ru": "Целевые мышцы: прямая мышца живота, косые мышцы живота"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The knees are bent at a right angle, the shoulder blades are on the ball, the torso is parallel to the floor, the arms are behind the head",
+              "ru": "Шаг 1: Ноги согнуты в коленях под прямым углом, лопатки располагаются на мяче, туловище параллельно полу, руки находятся за головой"
+            },
+            "iconUrl": "ex_press4_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Do the crunch",
+              "ru": "Шаг 2: Выполните скручивание"
+            },
+            "iconUrl": "ex_press4_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_press4_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_press5_icon.jpg",
+        "name": {
+          "en": "Jackknife",
+          "ru": "Продвинутые скручивания"
+        },
+        "performance": 4,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "press5",
+        "description": {
+          "en": "Main muscle: abdominals",
+          "ru": "Целевые мышцы: прямая мышца живота, косые мышцы живота"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Lie of the floor, the torso is straight, the arms lie along the body",
+              "ru": "Шаг 1: Лягте на пол, туловище выпрямлено, руки лежат вдоль корпуса"
+            },
+            "iconUrl": "ex_press5_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Do the crunch, at the same time moving slightly bent legs and torso to each other",
+              "ru": "Шаг 2: Выполните скручивание, одновременно перемещая слегка согнутые в коленях ноги и корпус  друг к другу"
+            },
+            "iconUrl": "ex_press5_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_press5_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_planka_icon.jpg",
+        "name": {
+          "en": "Plank",
+          "ru": "Планка"
+        },
+        "performance": 3,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "planka",
+        "description": {
+          "en": "Main muscle: abdominals",
+          "ru": "Целевые мышцы: все мышцы живота"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Arms are bent at the elbows at 90 degrees, the body is parallel to the floor, the body from head to toe is a straight line. Hold this position as long as possible",
+              "ru": "Руки согнуты в локтях на 90 градусов, тело параллельно полу, тело от пяток до головы составляет прямую линию. Удерживайте такое положение максимально долго"
+            },
+            "iconUrl": "ex_planka.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_press7_icon.jpg",
+        "name": {
+          "en": "Knee hip raise on parallel bars",
+          "ru": "Подъемы ног в упоре"
+        },
+        "performance": 2,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "press7",
+        "description": {
+          "en": "Main muscle: abdominals\n\nOther muscle: hip flexors",
+          "ru": "Целевые мышцы: прямая мышца живота, косые мышцы живота\n\nМышцы, также участвующие в движении: мышцы-сгибатели бедра"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Putting the elbows on the pads, press your torso to the back of the machine",
+              "ru": "Шаг 1: Поставив локти на опоры, прижмитесь к спинке тренажера"
+            },
+            "iconUrl": "ex_press7_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lift your legs, keeping them straight or bent at the knees, to the level higher the parallel to the floor",
+              "ru": "Шаг 2: Выполните подъем прямых либо согнутых в коленях ног до уровня выше параллели с полом"
+            },
+            "iconUrl": "ex_press7_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Slowly return to the initial position",
+              "ru": "Шаг 3: Медленно вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_press7_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      },
+      {
+        "iconUrl": "ex_press8_icon.jpg",
+        "name": {
+          "en": "Hanging leg raise",
+          "ru": "Подъемы ног в висе"
+        },
+        "performance": 1,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "press8",
+        "description": {
+          "en": "Main muscle: abdominals\n\nOther muscle: hip flexors",
+          "ru": "Целевые мышцы: прямая мышца живота, косые мышцы живота\n\nМышцы, также участвующие в движении: мышцы-сгибатели бедра"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Hang on the crossbar, slightly bending your knees",
+              "ru": "Шаг 1: Повисните на перекладине, слегка согнув ноги в коленях"
+            },
+            "iconUrl": "ex_press8_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Lift your legs, keeping them straight or bent at the knees, to the level higher the parallel to the floor",
+              "ru": "Шаг 2: Выполните подъем прямых либо согнутых в коленях ног до уровня выше параллели с полом"
+            },
+            "iconUrl": "ex_press8_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Slowly return to the initial position",
+              "ru": "Шаг 3: Медленно вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_press8_step_1.jpg"
+          }
+        ],
+        "typeName": "BASE"
+      }
+    ],
+    "name": {
+      "en_male": "Abs",
+      "ru_male": "Пресс",
+      "en_female": "Abs",
+      "ru_female": "Пресс"
+    },
+    "serverId": "press"
+  },
+  {
+    "exercises": [
+      {
+        "iconUrl": "ex_cardio_icon.jpg",
+        "name": {
+          "en": "Cardio",
+          "ru": "Кардио"
+        },
+        "performance": 2,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "cardio",
+        "description": {
+          "en": "Cardio is great both for warming up before strength trainings and for reducing fat of the body",
+          "ru": "Кардио отлично подходит как для разминки перед силовой тренировкой, так и для уменьшения жировой прослойки тела."
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Treadmill running",
+              "ru": "Беговая дорожка"
+            },
+            "iconUrl": "ex_running.jpg"
+          },
+          {
+            "description": {
+              "en": "Elliptical training",
+              "ru": "Эллипсоид"
+            },
+            "iconUrl": "ex_ellipse.jpg"
+          },
+          {
+            "description": {
+              "en": "Recumbent bike",
+              "ru": "Велотренажер"
+            },
+            "iconUrl": "ex_bicycle.jpg"
+          },
+          {
+            "description": {
+              "en": "Jump rope",
+              "ru": "Скакалка"
+            },
+            "iconUrl": "ex_skakalka.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_sustwarmup_icon.jpg",
+        "name": {
+          "en": "Warm up exercises",
+          "ru": "Cуставная разминка"
+        },
+        "performance": 1,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "sustwarmup",
+        "description": {
+          "en": "A necessary part of warming up before the training is joint rotation. It helps to prepare your ligaments, tendons and joints to the strength trainings. Complete the given complex of exercises before each strength training for 10-15 minutes.",
+          "ru": "Обязательной составляющей разминки перед тренировкой является суставная разминка. Она служит для подготовки связок, сухожилий и суставов к силовой работе. Выполняйте данный комплекс упражнений перед каждой силовой тренировкой 10-15 минут."
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Circular movements of head",
+              "ru": "Шаг 1: Круговые движения головы"
+            },
+            "iconUrl": "ex_sustwarmup_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Circular movements of arms at the shoulder joints",
+              "ru": "Шаг 2: Круговые движения руками в плечевых суставах"
+            },
+            "iconUrl": "ex_sustwarmup_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Circular movements of arms at the elbow joints",
+              "ru": "Шаг 3: Круговые движения руками в локтевых суставах"
+            },
+            "iconUrl": "ex_sustwarmup_3.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 4: Circular movements of wrists",
+              "ru": "Шаг 4: Круговые движения в кистях"
+            },
+            "iconUrl": "ex_sustwarmup_4.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 5: Circular movements of torso at the hip joints",
+              "ru": "Шаг 5: Круговые движения туловища в тазобедренных суставах"
+            },
+            "iconUrl": "ex_sustwarmup_5.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 6: Circular movements of legs at the knee joints",
+              "ru": "Шаг 6: Круговые движения ног в коленных суставах"
+            },
+            "iconUrl": "ex_sustwarmup_6.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 7: Circular movements of legs at the hip joints",
+              "ru": "Шаг 7: Круговые движения ног в тазобедренных суставах"
+            },
+            "iconUrl": "ex_sustwarmup_7.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      }
+    ],
+    "name": {
+      "en_male": "Warm up",
+      "ru_male": "Разминка",
+      "en_female": "Warm up",
+      "ru_female": "Разминка"
+    },
+    "serverId": "warmupex"
+  },
+  {
+    "exercises": [
+      {
+        "iconUrl": "ex_wrist1_icon.jpg",
+        "name": {
+          "en": "Barbell wrist curl",
+          "ru": "Сгибания стоя со штангой за спиной"
+        },
+        "performance": 2,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "wrist1",
+        "description": {
+          "en": "Isolation exercise for the development of forearm muscles",
+          "ru": "Изолирующее упражнение для развития мышц предплечий"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The bar is being held behind the back on straight arms",
+              "ru": "Шаг 1: Гриф удерживается за спиной на прямых руках"
+            },
+            "iconUrl": "ex_wrist1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your arms at the wrist joints",
+              "ru": "Шаг 2: Согните руки в кистевых суставах"
+            },
+            "iconUrl": "ex_wrist1_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_wrist1_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_wrist2_icon.jpg",
+        "name": {
+          "en": "Barbell wrist curl on bench",
+          "ru": "Сгибания со штангой с упором на скамью"
+        },
+        "performance": 1,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "wrist2",
+        "description": {
+          "en": "Isolation exercise for the development of forearm muscles",
+          "ru": "Изолирующее упражнение для развития мышц предплечий"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: Put your hands on the bench so that the wrists hang over the edge, holding the bar",
+              "ru": "Шаг 1: Положите руки на скамью таким образом, чтобы с нее свисали кисти, удерживающие гриф"
+            },
+            "iconUrl": "ex_wrist2_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Bend your arms at the wrist joints",
+              "ru": "Шаг 2: Согните руки в кистевых суставах"
+            },
+            "iconUrl": "ex_wrist2_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_wrist2_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      }
+    ],
+    "name": {
+      "en_male": "Wrist",
+      "ru_male": "Предплечья",
+      "en_female": "Wrist",
+      "ru_female": "Предплечья"
+    },
+    "serverId": "wrist"
+  },
+  {
+    "exercises": [
+      {
+        "iconUrl": "ex_caviar1_icon.jpg",
+        "name": {
+          "en": "Smith machine calf raises",
+          "ru": "Подъем на носки со штангой на плечах в тренажере Смита"
+        },
+        "performance": 2,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "caviar1",
+        "description": {
+          "en": "Isolation exercise for the development of calf muscles",
+          "ru": "Изолирующее упражнение для развития икроножных мышц"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The balls of your feet are on the platform, calf muscles are stretched, the bar is being held on the back",
+              "ru": "Шаг 1: Носки стоят на платформе, пятки свешиваются с нее, икроножные мышцы находятся в растянутом положении, гриф лежит на спине"
+            },
+            "iconUrl": "ex_caviar1_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Raise up on your toes as high as possible",
+              "ru": "Шаг 2: Поднимитесь на носках как можно выше"
+            },
+            "iconUrl": "ex_caviar1_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Slowly return to the initial position",
+              "ru": "Шаг 3: Медленно вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_caviar1_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_caviar2_icon.jpg",
+        "name": {
+          "en": "Seated calf raises",
+          "ru": "Подъем на носки в тренажере"
+        },
+        "performance": 1,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "caviar2",
+        "description": {
+          "en": "Isolation exercise for the development of calf muscles",
+          "ru": "Изолирующее упражнение для развития икроножных мышц"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The balls of your feet are on the platform, calf muscles are stretched",
+              "ru": "Шаг 1: Носки стоят на платформе, пятки свешиваются с нее, икроножные мышцы находятся в растянутом положении"
+            },
+            "iconUrl": "ex_caviar2_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Raise your heels, flexing your calf muscles",
+              "ru": "Шаг 2: Поднимите пятки вверх, сократив икроножные мышцы"
+            },
+            "iconUrl": "ex_caviar2_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Slowly return to the initial position",
+              "ru": "Шаг 3: Медленно вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_caviar2_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      }
+    ],
+    "name": {
+      "en_male": "Calf",
+      "ru_male": "Икроножные мышцы",
+      "en_female": "Calf",
+      "ru_female": "Икроножные мышцы"
+    },
+    "serverId": "caviar"
+  },
+  {
+    "exercises": [
+      {
+        "iconUrl": "ex_dumbbellshragi_icon.jpg",
+        "name": {
+          "en": "Dumbbell shrugs",
+          "ru": "Шраги с гантелями"
+        },
+        "performance": 3,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "dumbbellshragi",
+        "description": {
+          "en": "Isolation exercise for the development of trapezius",
+          "ru": "Изолирующее упражнение для развития трапециевидной мышцы"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The hands hold the dumbbells on the sides of the torso, the shoulders are lowered",
+              "ru": "Шаг 1: Руки удерживают гантели по бокам от туловища, плечи опущены вниз"
+            },
+            "iconUrl": "ex_dumbbellshragi_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Raise your shoulders, keeping the arms straight",
+              "ru": "Шаг 2: Поднимите плечи, оставляя руки в выпрямленными"
+            },
+            "iconUrl": "ex_dumbbellshragi_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_dumbbellshragi_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_barbellshragi_icon.jpg",
+        "name": {
+          "en": "Barbell shrugs",
+          "ru": "Шраги со штангой"
+        },
+        "performance": 2,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "barbellshragi",
+        "description": {
+          "en": "Isolation exercise for the development of trapezius",
+          "ru": "Изолирующее упражнение для развития трапециевидной мышцы"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The hands hold the bar before itself , the shoulders are lowered",
+              "ru": "Шаг 1: Руки удерживают гриф перед собой, плечи опущены вниз"
+            },
+            "iconUrl": "ex_barbellshragi_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Raise your shoulders, keeping the arms straight",
+              "ru": "Шаг 2: Поднимите плечи, оставляя руки в выпрямленными"
+            },
+            "iconUrl": "ex_barbellshragi_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_barbellshragi_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      },
+      {
+        "iconUrl": "ex_smitshragi_icon.jpg",
+        "name": {
+          "en": "Smith machine shrugs",
+          "ru": "Шраги в тренажере Смита"
+        },
+        "performance": 1,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "smitshragi",
+        "description": {
+          "en": "Isolation exercise for the development of trapezius",
+          "ru": "Изолирующее упражнение для развития трапециевидной мышцы"
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Step 1: The hands hold the bar before itself , the shoulders are lowered",
+              "ru": "Шаг 1: Руки удерживают гриф перед собой, плечи опущены вниз"
+            },
+            "iconUrl": "ex_smitshragi_step_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 2: Raise your shoulders, keeping the arms straight",
+              "ru": "Шаг 2: Поднимите плечи, оставляя руки в выпрямленными"
+            },
+            "iconUrl": "ex_smitshragi_step_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Step 3: Return to the initial position",
+              "ru": "Шаг 3: Вернитесь в исходное положение"
+            },
+            "iconUrl": "ex_smitshragi_step_1.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      }
+    ],
+    "name": {
+      "en_male": "Shrugs",
+      "ru_male": "Трапеции",
+      "en_female": "Shrugs",
+      "ru_female": "Трапеции"
+    },
+    "serverId": "shragi"
+  },
+  {
+    "exercises": [
+      {
+        "iconUrl": "ex_rastiaszkaex_icon.jpg",
+        "name": {
+          "en": "Stretching",
+          "ru": "Растяжка"
+        },
+        "performance": 1,
+        "pmCoefficientsStr": "1.0,1.035,1.08,1.115,1.15,1.18,1.22,1.255,1.29,1.325",
+        "weight": false,
+        "weightForFemale": false,
+        "serverId": "rastiaszkaex",
+        "description": {
+          "en": "Stretching is a necessary part of the training process. It will reduce the chance of getting injuries and will improve the mobility of main body joints. Complete 1-2 circles of suggested exercises after each training.",
+          "ru": "Растяжка является обязательным звеном в тренировочном процессе. Это снизит вероятность получения травм и повысит подвижность тела в основных суставах. Выполняйте 1-2 круга предложенных упражнений после каждой тренировки."
+        },
+        "steps": [
+          {
+            "description": {
+              "en": "Stretching the pecs and shoulders with a stick. Raising the stick above the head, slowly bring the arms back up to a slight pain",
+              "ru": "Растяжка грудных и дельтовидных мышц с палкой.  Подняв палку над головой, плавно отведите руки назад до легких болевых ощущений"
+            },
+            "iconUrl": "ex_rastiaszkaex_1.jpg"
+          },
+          {
+            "description": {
+              "en": "Stretching the back part of shoulder. Taking the shoulder by the opposite hand, stretch the back part of the shoulder.",
+              "ru": "Растяжка заднего пучка дельтовидной мышцы. Взяв плечо противоположной рукой, растяните задний пучок."
+            },
+            "iconUrl": "ex_rastiaszkaex_2.jpg"
+          },
+          {
+            "description": {
+              "en": "Stretching lats. Grasping the crossbar by straight arms, lower your chest up to a slight pain",
+              "ru": "Растяжка широчайших мышц спины. Взявшись прямыми руками за перекладину, опускайтесь грудью вниз до возникновения легких болевых ощущений"
+            },
+            "iconUrl": "ex_rastiaszkaex_3.jpg"
+          },
+          {
+            "description": {
+              "en": "Stretching the front part of the upper leg. Taking the ankle by the same hand, pull it up. You can lean on something by the other hand to keep the balance.",
+              "ru": "Растяжка передней поверхности бедра. Взяв голеностоп одноименной рукой, потяните его вверх. Свободной рукой можно держаться за опору для сохранения равновесия"
+            },
+            "iconUrl": "ex_rastiaszkaex_4.jpg"
+          },
+          {
+            "description": {
+              "en": "Stretching the inner thigh, sitting on the floor. Slowly lean forward up to a slight pain",
+              "ru": "Растяжка задней поверхности бедра сидя на полу. Плавно наклонитесь вперед  до возникновения легких болевых ощущений"
+            },
+            "iconUrl": "ex_rastiaszkaex_6.jpg"
+          }
+        ],
+        "typeName": "ISOLATION"
+      }
+    ],
+    "name": {
+      "en_male": "Stretching",
+      "ru_male": "Растяжка",
+      "en_female": "Stretching",
+      "ru_female": "Растяжка"
+    },
+    "serverId": "rastiaszkaspr"
+  }
+]

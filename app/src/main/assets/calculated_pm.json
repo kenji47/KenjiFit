@@ -1,0 +1,26 @@
+[
+{
+   "muscleGroupServerId":"legs",
+   "exerciseServerId":"squats,squats1,legpress,hacksquats"
+},
+{
+   "muscleGroupServerId":"breast",
+   "exerciseServerId":"benchpress"
+},
+{
+   "muscleGroupServerId":"shoulders",
+   "exerciseServerId":"militarypress,sitmilitarypress"
+},
+{
+   "muscleGroupServerId":"back",
+   "exerciseServerId":"deadlift"
+},
+{
+   "muscleGroupServerId":"biceps",
+   "exerciseServerId":"barbellcurl"
+},
+{
+   "muscleGroupServerId":"triceps",
+   "exerciseServerId":"barbellclosepress"
+}
+]

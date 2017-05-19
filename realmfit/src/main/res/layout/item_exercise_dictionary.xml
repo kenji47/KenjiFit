@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/indent_xsmall"
+        android:layout_marginRight="@dimen/indent_xsmall"
+        android:layout_marginTop="@dimen/indent_xsmall"
+        android:background="@drawable/shadow">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_item_exercise">
+
+            <ImageView
+                android:id="@+id/iconImageView"
+                android:layout_width="@dimen/item.exercise.image.width"
+                android:layout_height="@dimen/item.exercise.image.height"
+                android:layout_marginBottom="@dimen/item.exercise.image.margin"
+                android:layout_marginTop="@dimen/item.exercise.image.margin"
+                android:scaleType="centerCrop"
+                />
+
+            <TextView
+                android:id="@+id/nameTextView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/iconImageView"
+                android:paddingRight="@dimen/indent_large"
+                android:paddingTop="@dimen/item.exercise.image.margin"
+                android:text="Name"
+                android:textColor="@color/text"
+                android:textSize="@dimen/exercise_information.text.size"/>
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>
