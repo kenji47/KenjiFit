@@ -50,4 +50,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Save plan"/>
+
+    <Button
+        android:id="@+id/addDays"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add days"/>
 </LinearLayout>

@@ -1,12 +1,14 @@
 package com.kenji1947.realmfit.model.plan;
 
+import com.kenji1947.realmfit.model.LocaleSensitiveResource;
+
 import io.realm.RealmObject;
 
 /**
  * Created by kenji1947 on 12.05.2017.
  */
 
-public class PlanGoalName extends RealmObject {
+public class PlanGoalName extends RealmObject implements LocaleSensitiveResource{
     private String en;
     private String ru;
 

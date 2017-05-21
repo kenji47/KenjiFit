@@ -17,6 +17,7 @@ public class Plan extends RealmObject {
     private int frequency;
     private String gender;
     private RealmList<Day> days;
+    private boolean isUser;
 
     public String getIconName() {
         return iconName;
@@ -72,5 +73,13 @@ public class Plan extends RealmObject {
 
     public void setDays(RealmList<Day> days) {
         this.days = days;
+    }
+
+    public boolean isUser() {
+        return isUser;
+    }
+
+    public void setIsUser(boolean user) {
+        isUser = user;
     }
 }

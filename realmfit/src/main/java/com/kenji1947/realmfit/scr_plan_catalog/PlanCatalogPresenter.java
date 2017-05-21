@@ -16,19 +16,19 @@ import io.realm.RealmResults;
 public class PlanCatalogPresenter extends MvpPresenter<PlanCatalogView> {
     private Realm realm;
     private Repository repository;
-    PlanCatalogActivity3 activity;
 
-    public PlanCatalogPresenter(Realm realm, Repository repository, PlanCatalogActivity3 activity) {
+
+    public PlanCatalogPresenter(Realm realm, Repository repository) {
         this.realm = realm;
         this.repository = repository;
-        this.activity = activity;
     }
 
     @Override
     protected void onFirstViewAttach() {
         super.onFirstViewAttach();
         //Подносить стартовые объекты из презентера, позволит запросить объект только один раз
-        //а дальше передавать один и тот же. Для этого нужно хранить в презентере уже собранный
+        //а дальше передавать один и тот же.
+        // Для этого нужно хранить в презентере уже собранный. Не надо хранить, он будет в getViewState
         getViewState().initializeView(repository.getLocalRepository().getPlanGoalAllAsync(realm));
     }
 
@@ -43,8 +43,6 @@ public class PlanCatalogPresenter extends MvpPresenter<PlanCatalogView> {
     }
 
     //-------------------------------------------
-
-
 
 
 }

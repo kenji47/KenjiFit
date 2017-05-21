@@ -10,12 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:name=".App">
+
         <activity android:name=".DummyActivity">
-
         </activity>
+
+
         <activity android:name=".scr_ex_catalog.ExCatalogActivity">
-
         </activity>
+
+
         <activity android:name=".scr_plan_catalog.PlanCatalogActivity3">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -23,23 +26,38 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+
+
+        <activity android:name=".scr_plan_create.CreatePlanActivity">
+
+        </activity>
+
+
         <activity android:name=".scr_plan_catalog.PlanCatalogActivity2">
-
         </activity>
+
+
         <activity android:name=".scr_plan_catalog.PlanCatalogActivity">
-
         </activity>
+
+
         <activity android:name=".scr_ex_detail.ExDetailActivity"></activity>
+
+
         <activity android:name=".MainActivity">
 
         </activity>
-        <activity android:name=".RealmTestActivity">
 
+
+        <activity android:name=".RealmTestActivity">
         </activity>
+
+
         <activity android:name=".RealmTestActivity2">
         </activity>
-        <activity android:name=".RealmListenersActivity">
 
+
+        <activity android:name=".RealmListenersActivity">
         </activity>
     </application>
 

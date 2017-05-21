@@ -1,14 +1,20 @@
 package com.kenji1947.realmfit.scr_plan_create;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
+import android.widget.Button;
 
 import com.arellomobile.mvp.MvpAppCompatActivity;
-import com.kenji1947.realmfit.model.plan.Plan;
+import com.kenji1947.realmfit.Injection;
+import com.kenji1947.realmfit.R;
+import com.kenji1947.realmfit.repo.local.LocalRepository;
 
+import java.util.Locale;
 import java.util.UUID;
 
+import butterknife.BindView;
+import butterknife.ButterKnife;
 import io.realm.Realm;
+import timber.log.Timber;
 
 /**
  * Created by kenji1947 on 18.05.2017.
@@ -16,34 +22,56 @@ import io.realm.Realm;
 
 public class CreatePlanActivity extends MvpAppCompatActivity {
     Realm realm;
+    @BindView(R.id.savePlanButton) Button savePlanButton;
+    @BindView(R.id.addDays) Button addDays;
+    LocalRepository localRepository;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_plan_create);
+
+        Timber.d("onCreate");
+        ButterKnife.bind(this);
         realm = Realm.getDefaultInstance();
+        localRepository = Injection.provideRepositoryDefault().getLocalRepository();
 
-        Plan plan = realm.createObject(Plan.class, UUID.randomUUID().toString());
+        Locale localeDefault = Locale.getDefault();
 
-        Plan newPlan = new Plan();
-        newPlan.set_id(UUID.randomUUID().toString());
-        newPlan.setIconName("");
-        newPlan.setFrequency(3);
-        newPlan.setGender("male");
+        Timber.d("localeDefault: " + localeDefault + " getLanguage: " + localeDefault.getLanguage());
 
-       // newPlan.setName();
-        //newPlan.setDescription();
-
+        savePlanButton.setOnClickListener((v) -> savePlan());
+        addDays.setOnClickListener((v) -> addDays());
     }
 
+    private void savePlan() {
+        Timber.d("savePlan");
+        localRepository.createPlanAsync(
+                realm,
+                UUID.randomUUID().toString(),
+                "Мой новый план",
+                "План для набора массы",
+                "",
+                true,
+                3,
+                "male",
+                "mass"
+        );
+    }
+    private void addDays() {
+        Timber.d("addDays");
+    }
     @Override
     protected void onStop() {
         super.onStop();
+        Timber.d("onStop");
     }
 
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
+        Timber.d("onDestroy");
         realm.close();
     }
 }

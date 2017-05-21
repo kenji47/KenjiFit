@@ -24,4 +24,11 @@ public class FakeLocalRepository implements LocalRepository{
     public void createPlanGoal(String id) {
 
     }
+
+    @Override
+    public void createPlanAsync(Realm realm, String id, String name, String desc, String icon_url, boolean isUser, int frequency, String gender, String goal_id) {
+
+    }
+
+
 }

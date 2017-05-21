@@ -22,4 +22,14 @@ public interface LocalRepository {
     //TODO Передавать сам объект или поля
     void createPlanGoal(String id);
 
+    void createPlanAsync(
+            Realm realm,
+            String id,
+            String name,
+            String desc,
+            String icon_url,
+            boolean isUser,
+            int frequency,
+            String gender,
+            String goal_id);
 }
