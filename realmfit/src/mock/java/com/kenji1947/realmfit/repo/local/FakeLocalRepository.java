@@ -4,6 +4,7 @@ import com.kenji1947.realmfit.model.plan.PlanGoal;
 
 import io.realm.Realm;
 import io.realm.RealmResults;
+import rx.Observable;
 
 /**
  * Created by kenji1947 on 17.05.2017.
@@ -21,13 +22,8 @@ public class FakeLocalRepository implements LocalRepository{
     }
 
     @Override
-    public void createPlanGoal(String id) {
-
-    }
-
-    @Override
-    public void createPlanAsync(Realm realm, String id, String name, String desc, String icon_url, boolean isUser, int frequency, String gender, String goal_id) {
-
+    public Observable<String> createPlanObs(String id, String name, String desc, String icon_url, boolean isUser, int frequency, String gender, String goal_id) {
+        return null;
     }
 
 

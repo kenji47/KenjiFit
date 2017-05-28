@@ -11,6 +11,7 @@ import io.realm.annotations.PrimaryKey;
 public class Plan extends RealmObject {
     @PrimaryKey
     private String _id;
+    private long pos;
     private PlanName name;
     private PlanDesc description;
     private String iconName;
@@ -18,6 +19,18 @@ public class Plan extends RealmObject {
     private String gender;
     private RealmList<Day> days;
     private boolean isUser;
+
+    public long getPos() {
+        return pos;
+    }
+
+    public void setPos(long pos) {
+        this.pos = pos;
+    }
+
+    public void setUser(boolean user) {
+        isUser = user;
+    }
 
     public String getIconName() {
         return iconName;

@@ -51,6 +51,7 @@ public class ExpandablePlanAdapter
     @Override
     public void onAttachedToRecyclerView(@NonNull RecyclerView recyclerView) {
         super.onAttachedToRecyclerView(recyclerView);
+        Timber.d("onAttachedToRecyclerView");
         for (ParentGroup group: listPlanGroup) {
             group.registerListener(this);
         }
@@ -59,6 +60,7 @@ public class ExpandablePlanAdapter
     @Override
     public void onDetachedFromRecyclerView(@NonNull RecyclerView recyclerView) {
         super.onDetachedFromRecyclerView(recyclerView);
+        Timber.d("onDetachedFromRecyclerView");
         for (ParentGroup group: listPlanGroup) {
             group.removeListener();
         }

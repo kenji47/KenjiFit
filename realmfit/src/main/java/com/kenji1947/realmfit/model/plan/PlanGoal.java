@@ -11,9 +11,18 @@ import io.realm.annotations.PrimaryKey;
 public class PlanGoal extends RealmObject {
     @PrimaryKey
     private String _id;
+    private long pos;
     private PlanGoalName name;
     private String iconName;
     private RealmList<Plan> plans;
+
+    public long getPos() {
+        return pos;
+    }
+
+    public void setPos(long pos) {
+        this.pos = pos;
+    }
 
     public String getIconName() {
         return iconName;

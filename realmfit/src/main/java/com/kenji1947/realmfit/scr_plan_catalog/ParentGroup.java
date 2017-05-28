@@ -16,7 +16,7 @@ import timber.log.Timber;
  */
 
 public class ParentGroup implements Parent<Plan> {
-    PlanGoal planGoal;
+    private PlanGoal planGoal;
     private RealmList<Plan> planList;
     private ExpandablePlanAdapter adapter;
 
@@ -25,7 +25,7 @@ public class ParentGroup implements Parent<Plan> {
         public void onChange(RealmList<Plan> collection, OrderedCollectionChangeSet changeSet) {
 
             int parent_pos = adapter.getPlanGroupIndex(ParentGroup.this);
-            Timber.d("onChange group name:" + planGoal.getName().getRu() + " parent pos: " + parent_pos);
+            Timber.d("onChange" + this.toString() + "group name: " + planGoal.getName().getRu() + " parent pos: " + parent_pos);
 
             if (changeSet == null) {
                 adapter.notifyParentDataSetChanged(false);
@@ -33,33 +33,53 @@ public class ParentGroup implements Parent<Plan> {
             }
             // For deletions, the adapter has to be notified in reverse order.
             OrderedCollectionChangeSet.Range[] deletions = changeSet.getDeletionRanges();
+            Timber.d("getDeletionRanges " + deletions.length);
             for (int i = deletions.length - 1; i >= 0; i--) {
                 OrderedCollectionChangeSet.Range range = deletions[i];
                 adapter.notifyChildRangeRemoved(parent_pos, range.startIndex, range.length);
             }
 
             OrderedCollectionChangeSet.Range[] insertions = changeSet.getInsertionRanges();
+            Timber.d("getInsertionRanges " + insertions.length);
             for (OrderedCollectionChangeSet.Range range : insertions) {
                 adapter.notifyChildRangeInserted(parent_pos, range.startIndex, range.length);
             }
 
             OrderedCollectionChangeSet.Range[] modifications = changeSet.getChangeRanges();
+            Timber.d("getChangeRanges " + modifications.length);
             for (OrderedCollectionChangeSet.Range range : modifications) {
                 adapter.notifyChildRangeChanged(parent_pos, range.startIndex, range.length);
             }
         }
     };
+    public ParentGroup(PlanGoal planGoal) {
+        this.planGoal = planGoal;
+
+
+        //todo planGoal isLoaded
+        this.planList = planGoal.getPlans();
+
+        //todo Сортировка списка планов. Гарантируется ли порядок выборки?
+//        if (planGoal.get_id().equals("user")) {
+//
+//        }
+    }
+
     public void registerListener(ExpandablePlanAdapter adapter) {
         this.adapter = adapter;
         this.planList.addChangeListener(listener);
     };
     public void removeListener() {
-        planList.removeChangeListener(listener);
-    }
+        Timber.d("removeListener");
+        //todo
+        //planList.removeChangeListener(listener);
+        //todo Исключение так как realm уже закрыт
+        if (planGoal.isValid()) {
+            planGoal.removeAllChangeListeners();
+            planList.removeAllChangeListeners();
+        }
 
-    public ParentGroup(PlanGoal planGoal) {
-        this.planGoal = planGoal;
-        this.planList = planGoal.getPlans();
+
     }
 
     public String getName() {
