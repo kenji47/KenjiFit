@@ -47,6 +47,9 @@ public class PlanCatalogPresenter extends MvpPresenter<PlanCatalogView> {
 
     //-------------------------------------------
     private void loadPlanGoalList() {
+        realm.where(PlanGoal.class).findFirst();
+
+
         EspressoIdlingResource.increment();
         subscription = repository.getLocalRepository().getPlanGoalAllAsync(realm)
                 .<RealmResults<PlanGoal>>asObservable()

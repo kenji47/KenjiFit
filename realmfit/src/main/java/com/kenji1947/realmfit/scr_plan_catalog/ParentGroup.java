@@ -52,6 +52,7 @@ public class ParentGroup implements Parent<Plan> {
             }
         }
     };
+
     public ParentGroup(PlanGoal planGoal) {
         this.planGoal = planGoal;
 
@@ -69,6 +70,7 @@ public class ParentGroup implements Parent<Plan> {
         this.adapter = adapter;
         this.planList.addChangeListener(listener);
     };
+
     public void removeListener() {
         Timber.d("removeListener");
         //todo
@@ -78,7 +80,6 @@ public class ParentGroup implements Parent<Plan> {
             planGoal.removeAllChangeListeners();
             planList.removeAllChangeListeners();
         }
-
 
     }
 

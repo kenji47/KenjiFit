@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.SpinnerAdapter;
 
@@ -41,6 +42,8 @@ public class CreatePlanActivity extends MvpAppCompatActivity {
 
     @BindView(R.id.savePlanButton) Button savePlanButton;
     @BindView(R.id.addDays) Button addDaysButton;
+
+    @BindView(R.id.planNameEditText) EditText planNameEditText;
 
     @BindView(R.id.planGoalSpinner) Spinner planGoalSpinner;
     @BindView(R.id.trainingFrequencySpinner) Spinner trainingFrequencySpinner;

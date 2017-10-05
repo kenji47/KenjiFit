@@ -35,6 +35,7 @@ public class RealmExListAdapter extends RealmRecyclerViewAdapter<Exercise, Realm
     public RealmExListAdapter(@Nullable OrderedRealmCollection<Exercise> data, ItemClickListener clickListener) {
         super(data, true);
         this.clickListener = clickListener;
+
     }
 
     @Override

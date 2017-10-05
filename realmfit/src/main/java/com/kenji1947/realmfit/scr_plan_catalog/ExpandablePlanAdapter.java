@@ -48,6 +48,7 @@ public class ExpandablePlanAdapter
         listPlanGroup.addAll(list);
         notifyDataSetChanged();
     }
+
     @Override
     public void onAttachedToRecyclerView(@NonNull RecyclerView recyclerView) {
         super.onAttachedToRecyclerView(recyclerView);

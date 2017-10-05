@@ -22,6 +22,7 @@ public class App extends Application{
         if (BuildConfig.DEBUG) {
             Timber.plant(new Timber.DebugTree());
         }
+        Stetho.initializeWithDefaults(this);
         DaoMaster.DevOpenHelper helper = new DaoMaster.DevOpenHelper(this, "kenjifit_db", null);
         SQLiteDatabase db = helper.getWritableDatabase();
         DaoMaster daoMaster = new DaoMaster(db);
